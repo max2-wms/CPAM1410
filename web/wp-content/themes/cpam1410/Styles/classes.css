@@ -1,0 +1,226 @@
+.inner_container {	
+	width: 940px;	
+	margin-left: auto;	
+	margin-right: auto;	
+	text-align: left;
+}
+
+.blue_bg {	
+	height: 50px;	
+	background-color: #08425A;
+}
+
+.hide {	
+	margin-left: -9999px;
+}
+
+.left {	
+	float: left;
+}
+
+.right {	
+	float: right;
+}
+
+.clear {	
+	clear: both;
+}
+
+.uppercase {	
+	text-transform: uppercase;
+}
+
+.capitalize {	
+	text-transform: capitalize;
+}
+
+.gap {	
+	margin-left: 30px;
+}
+
+.post_thumbnail {	
+	margin-right: 30px;
+}
+
+.medium_gap {	
+	margin-left: 50px;
+}
+
+.big_gap {	
+	margin-left: 80px;
+}
+
+.delafield {	
+	font-family: 'Mrs Saint Delafield', cursive;
+}
+
+.no_padding {	
+	padding: 0px 0px 0px 0px;	
+	margin: 0px 0px 0px 0px;
+}
+
+.text_align_left {	
+	text-align: left;
+}
+
+h4.heading {	
+	color: #42799d;	
+	margin: 0px 0px 10px 0px;	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.open_sans {	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.no_margins {	
+	margin: 0px 0px 0px 0px;	
+	padding: 0px 0px 0px 0px;
+}
+
+.right_aligned {	
+	text-align: right;
+}
+
+.widget {	
+	/*background-color: #a9a8a8;	 
+	padding: 15px 15px 15px 15px;	 
+	margin-bottom: 20px;	*/
+}
+
+.h_line {	
+	border-top: thin solid #8f8f8e;	
+	margin: 15px 0px 15px 0px;
+}
+
+.page_title, 
+.widget h4, 
+.widget h4.heading {	
+	color: #FFF;
+}
+
+.widget h4 {	
+	text-transform: uppercase;
+}
+
+.widget ul, 
+.widget ol {	
+	margin: 0px;
+}
+
+.small_banner, 
+.double_banner, 
+.super_long_banner, 
+.widget h4 {	
+	margin: 0px 0px 0px -15px;	
+	padding: 10px 0px 0px 15px;	
+	font-size: 120%;
+}
+
+.widget h4.long {	
+	width: 100%;	
+	background: url(../images/super_long_banner.jpg) no-repeat;
+}
+
+.widget.communiquez_avec_nous input,
+.widget.communiquez_avec_nous textarea,
+.widget.communiquez_avec_nous select,
+.widget.communiquez_avec_nous label {	
+	width: 300px;	
+	margin-left: 15px;
+}
+
+.small_banner, 
+.double_banner, 
+.super_long_banner {	
+	margin: 0px 0px 0px -15px;	
+	padding: 10px 0px 0px 15px;	
+	font-size: 120%;
+}
+
+.small_banner {	
+	width: 115px;	
+	height: 41px;	
+	background: url(../images/small_banner.jpg) no-repeat;	
+	font-weight: bold;
+}
+
+.widget h4.carousel {	
+	display: block;	
+	width: 100%;	
+	height: 50px;	
+	padding: 10px 0px 0px 10px;	
+	z-index: 100;	
+	background: url(../images/super_long_banner.jpg) no-repeat;
+}
+
+
+.double_banner {	width: 608px;	height: 52px;	background: url(../images/double_banner.jpg) no-repeat;}
+
+.super_long_banner {	width: 603px;	height: 54px;	background: url(../images/super_long_banner.jpg) no-repeat;	font-weight: bold;}
+
+.center {	text-align: center;}
+
+ul.subnav {	list-style: none;}
+
+ul.subnav li {	float: left;}
+
+.news_excerpt {	width: 425px;}
+
+.news_excerpt p {	margin-top: 0px;}
+
+.the_date {	color: #000;	font-size: 80%;	margin: -7px 0px 10px 0px;}
+
+.right_border {	border-right: thin solid #8f8f8e;	padding-right: 10px;}
+
+li.current a {	color: #FFF;}
+
+.gone {	display: none;}
+
+.bold {	font-weight: bold;}
+
+h2.underlined {	border-bottom: thin solid #8f8f8e;}
+
+.time_column {	width: 100px;}
+
+.widget {	width: 320px;	padding: 0px 0px 15px 0px;}
+
+.widget_divider {	height: 10px;}
+
+.thumb {	width: 75px;	height: 75px;}
+
+.center_text {	text-align: center;}
+
+.wdpv_vote_count {	display: none;}
+
+.vote-link {	margin: 10px 0 0 15px;}
+
+.track {	border: thin solid #000;	width: 190px;	height: 185px;	margin: 0 0 2px 2px;	padding-top: 15px;	float: left;	text-align: center;	background-color: #999;}
+
+.track .wdpv_vote_up {	margin-left: 30px;}
+
+.music-player {	position: absolute;	margin: -70px 0 0 90px;}
+
+.track a img {	width: 70px;	height: 70px;}
+
+.wdpv_popular_posts {	list-style-type: decimal;}
+
+.wdpv_popular_posts li a span {	color: #000;	font-weight: normal;	font-style: italic;	font-size: 90%;}
+
+.block {	display: block !important;}
+
+.slider_banner {	width: 608px;	height: 193px;	border: thin solid red !important;}
+
+.audio_now img {	border: 0 none;}
+
+.success {	display: none;	border: 2px solid green;	font-size: 16px;	margin: 10px 0 0 15px;	padding: 5px;	text-align: center;	width: 295px;}
+
+.disclaimer {
+	padding: 5px 30px;
+	background-color: blue;
+	color: #FFF;
+}
+
+.disclaimer .inner_container {
+	text-align: center;
+}

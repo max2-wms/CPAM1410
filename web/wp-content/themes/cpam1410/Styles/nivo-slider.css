@@ -1,0 +1,21 @@
+.nivoSlider {
+    position: relative;
+    width: 608px; /* Change this to your images width */
+    height: 193px; /* Change this to your images height */
+	margin-top: -13px;
+    background: url(../images/loading.gif) no-repeat 50% 50%;
+}
+
+.nivoSlider img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: none;
+}
+
+.nivoSlider a {
+    display: block;
+	border: 0;
+	width: 608px;
+    height: 193px;
+}
