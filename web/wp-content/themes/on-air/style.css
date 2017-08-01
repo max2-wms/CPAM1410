@@ -1,0 +1,532 @@
+/*
+Theme Name: on-air
+Theme URI: http://www.webmediasolutionz.com/
+Description: on-air theme by Web Media Solutionz
+Author: Maxime Pierre
+Author URI: http://www.webmediasolutionz.com/
+*/
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+.deskcolor {
+    background-color: #e8e8e8 !important;
+}
+
+.paper,
+.card,
+.card .card-reveal,
+.tabs,
+.tabs li.tab,
+.qw-separator.triangle.small:after,
+.cbp-vm-view-list .cbp-vm-offair .cbp-vm-title,
+.cbp-vm-view-list .cbp-vm-offair .cbp-vm-time {
+    background-color: #ffffff !important;
+}
+
+.maincolor,
+body.qw-stickynav nav#qwMainNavbar {
+    background-color: #f0f0f0 !important;
+}
+
+#qwMainNavbar .maincolor,
+body.qw-stickynav nav#qwMainNavbar {
+    background-color: #f0f0f0 !important;
+}
+
+.slider ul.indicators li.indicator-item.active {
+    background-color: #f0f0f0 !important;
+}
+
+.tabs .indicator {
+    background-color: #f0f0f0 !important;
+}
+
+.maincolor.dark,
+#qwMainNavbar .maincolor .dark {
+    background-color: #f1f1f1 !important;
+}
+
+.accentcolor {
+    background-color: #333333 !important;
+}
+
+.dropDownMenu li li a {
+    background: linear-gradient(to right, #f1f1f1 34%, #f0f0f0 65%);
+    background-size: 300% 100%;
+    background-position: right bottom;
+}
+
+.accentcolor.dark {
+    background-color: #f2d337 !important;
+}
+
+ul.qw-smallmenu li::after {
+    background-color: #f0f0f0 !important;
+}
+
+a.accentcolor:hover {
+    background-color: #f2d337 !important;
+}
+
+body,
+.textcolor,
+.cbp-vm-view-list .cbp-vm-offair .cbp-vm-time {
+    color: #545454 !important;
+}
+
+a:hover {
+    color: #f1f1f1 !important;
+}
+
+a {
+    color: #333333 !important;
+}
+
+.maincolor,
+.cbp-vm-view-list .cbp-vm-nowonair .cbp-vm-title,
+.cbp-vm-view-list .maincolor .cbp-vm-time span {
+    color: #333333 !important;
+}
+
+.maincolor a {
+    color: #ffffff !important;
+}
+
+.maincolor a:hover,
+li.current-menu-item>a {
+    color: #f2d337 !important;
+}
+
+.maincolor-text,
+.cbp-vm-view-list .cbp-vm-offair .cbp-vm-title {
+    color: #f0f0f0 !important;
+}
+
+a.maincolor-text,
+.card-footer a.prettySocial span {
+    color: #f0f0f0 !important;
+}
+
+a.maincolor-text:hover {
+    color: #f1f1f1 !important;
+}
+
+.maincolor ::-webkit-input-placeholder,
+.maincolor :-moz-placeholder,
+.maincolor ::-moz-placeholder,
+.maincolor :-ms-input-placeholder {
+    color: #333333 !important;
+}
+
+.accentcolor {
+    color: #e0f2f1 !important;
+}
+
+.widget .qw-widget-title {
+    border-color: #333333;
+}
+
+.accentcolor a {
+    color: !important;
+}
+
+.accentcolor a:hover {
+    color: #f2d337 !important;
+}
+
+.accentcolor-text,
+a.accentcolor-text {
+    color: #333333 !important;
+}
+
+a.accentcolor-text:hover {
+    color: #f2d337 !important;
+}
+
+a.accentcolor,
+a.accentcolor:hover {
+    color: !important;
+}
+
+.qw-fancyborder,
+blockquote {
+    border-color: #f0f0f0 !important;
+}
+
+.maincolor input[type=text],
+input[type=password],
+.maincolor input[type=email],
+.maincolor input[type=url],
+.maincolor input[type=date],
+.maincolor input[type=tel],
+.maincolor input[type=number],
+.maincolor input[type=search],
+.maincolor textarea.materialize-textarea {
+    border-bottom-color: #333333;
+}
+
+.cbp-vm-view-list .cbp-vm-time {
+    background-color: transparent !important;
+}
+
+body {
+    background-image: url(http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/onair-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.container {
+    max-width: 990px;
+}
+
+@media only screen and (min-width: 992px) {
+    .brand-logo {
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .brand-logo img {
+        max-height: 50px;
+    }
+}
+
+body.qw-stickynav nav#qwMainNavbar .brand-logo {
+    margin-top: 8px;
+}
+
+body.qw-stickynav nav#qwMainNavbar .brand-logo img {
+    max-height: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    .brand-logo {
+        margin-top: 5px;
+    }
+    .brand-logo img {
+        max-height: 30px;
+    }
+}
+
+.slider ul.slides li .caption {
+    display: none;
+}
+
+.qw-content-title {
+    display: none;
+}
+
+.maincolor-text {
+    color: #999 !important;
+}
+
+.cbp-vm-view-list .cbp-vm-offair .cbp-vm-title {
+    color: #333333 !important;
+}
+
+.cbp-vm-view-grid ul li.cpb-cardcont a.cbp-vm-add {
+    margin-bottom: 25px;
+    display: none;
+}
+
+.qw-padded {
+    padding: 0px;
+}
+
+a {
+    color: #666666 !important;
+    font-weight: 600;
+}
+
+.cbp-vm-view-grid h2 {
+    padding-left: 40px;
+}
+
+.container.qw-footer-widgets.maincolor.z-depth-4 {
+    padding: 20px;
+}
+
+div.container.maincolor.dark {
+    padding: 20px;
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.accentcolor {
+    color: #333 !important;
+    font-weight: 600;
+    background-color: #ffffff !important;
+}
+
+
+
+.grey-text.text-lighten-1 {
+    color: #fff !important;
+}
+
+.qw-posrelative {
+    position: relative;
+    top: 5px;
+}
+
+ul.qw-smallmenu li {
+    position: relative;
+    top: 2px;
+}
+
+#qwMainNavbar .maincolor {
+    background-color: #ffffff !important;
+}
+
+.maincolor a {
+    color: #666666 !important;
+    font-size: 17px
+}
+
+.maincolor a:hover {
+    color: #666666 !important;
+}
+
+
+
+.qw-extraheader .slider {
+    display: none;
+}
+
+
+.qw-parallax-background-css {
+    background: url(http://webmediasolutionz.com/projects/clients/new_CPAM1410/wp-content/uploads/2017/03/header3.png) center 0px no-repeat !important;
+}
+
+.select-wrapper input.select-dropdown {
+    font-size: 2rem;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.58rem;
+    line-height: 2.508rem;
+    text-align: center;
+    background: #ccc;
+}
+
+.widget .qw-widget-title {
+    border-color: #333333;
+    padding: 12px;
+    background: #ffffff;
+    font-size: 17px;
+}
+
+aside.widget ul li:first-child {
+    padding-top: 15px;
+}
+
+aside.widget ul li {
+    padding: 7px 10px;
+}
+
+#qwMainNavbar .maincolor {
+    background-color: #36000d !important;
+}
+
+i.mdi-av-play-arrow {
+    background: #f2d337;
+    margin-left: 0px;
+}
+
+nav .nav-wrapper i {
+    display: block;
+    font-size: 2.85rem;
+    color: #cd0324;
+    position: relative;
+    right: 1px;
+}
+
+.qw-playerbutton i {
+    height: 46px !important;
+    line-height: 46px !important;
+    margin: 0 auto 0 1px;
+}
+
+.maincolor a {
+    color: #fff !important;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.qw-footer-widgets.maincolor a {
+    color: #333 !important;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav a.button-collapse {
+    position: absolute !important;
+    top: 0;
+    left: 15px;
+}
+
+.cbp-header-title {
+    display: none;
+}
+
+h4,
+h5 {
+    display: none;
+}
+
+.cbp-vm-options {
+    display: none;
+}
+
+.select-wrapper input.select-dropdown {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.select-wrapper .mdi-navigation-arrow-drop-down {
+    top: -27px;
+    font-size: 62px;
+    right: 10px;
+}
+
+.dropdown-content li>span {
+    font-size: 1.6rem;
+    color: #555555;
+    display: block;
+    padding: 1rem 1rem;
+    text-align: center;
+    border-bottom: 1px solid #ddd
+}
+
+.page-id-2433 .qw-content.qw-relative.z-depth-1 {
+    width: 100%;
+    padding: 0px!important;
+}
+
+#qwSingleContainer {
+    padding: 20px;
+    background: #fff;
+}
+
+.maincolor-text {
+    color: #333!important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.single-shows .qw-subtitle,
+.single-shows .qw-subtitle2 {
+    margin: 0;
+    display: block;
+}
+
+
+table.responsive-table {
+    display: none;
+}
+
+.qw-categories {
+    display: none;
+}
+
+.qw-scrollbutton-footer {
+    display: none;
+}
+
+.qw-scrollbutton-top {
+    display: none;
+}
+
+.onairwidget a.btn {
+    display: none;
+}
+
+.maincolor a:hover {
+    color: #f2d337 !important;
+}
+
+body#theBody.custom-background {
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center !important;
+    background-attachment: fixed;
+}
+
+body,
+p,
+.normalfont,
+.qw-nf {
+    font-family: "Lato", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+qw-page-title,
+.tooltip,
+#nav,
+h1.qw-page-title,
+h1.qw-moduletitle {
+    font-family: "Montserrat", sans-serif;
+}
+
+.vdl-subpages-item a .detail .title {
+    font-size: 13px;
+}
+
+.vdl-subpages-item a .detail {
+    padding-top: 45px !important;
+}
+
+.vdl-subpages-container ul.vdl-subpages-tagcloud li a {}
+
+.vdl-subpages-container ul.vdl-subpages-tagcloud li a:hover {}
+
+
+
+
+@media (max-width: 768px) {
+    .vdl-elementcontents a.vdl-link .detail .title {}
+}
+
+@-webkit-keyframes marqueeAnimation-1465214 {
+    100% {
+        margin-left: -200px
+    }
+}
+
+@-webkit-keyframes marqueeAnimation-9424593 {
+    100% {
+        margin-left: -242px
+    }
+}
+
+@-webkit-keyframes marqueeAnimation-94245930 {
+    100% {
+        margin-left: -242px
+    }
+}
+
+@-webkit-keyframes marqueeAnimation-14652140 {
+    100% {
+        margin-left: -200px
+    }
+}
