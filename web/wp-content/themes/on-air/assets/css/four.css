@@ -1,0 +1,35 @@
+
+.vdl-subpages-item a .detail .title {
+    font-size: 13px;
+}
+.vdl-subpages-item a .detail {
+    padding-top: 45px;
+}
+.vdl-subpages-container ul.vdl-subpages-tagcloud li a {
+}
+.vdl-subpages-container ul.vdl-subpages-tagcloud li a:hover {
+}
+@media (max-width: 768px) {
+.vdl-elementcontents a.vdl-link .detail .title {
+}
+}
+@keyframes marqueeAnimation-6116625 {
+100% {
+    margin-left: -200px;
+}
+}
+@keyframes marqueeAnimation-735270 {
+100% {
+    margin-left: -241px;
+}
+}
+@keyframes marqueeAnimation-7352700 {
+100% {
+    margin-left: -241px;
+}
+}
+@keyframes marqueeAnimation-61166250 {
+100% {
+    margin-left: -200px;
+}
+}

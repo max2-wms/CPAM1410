@@ -1,0 +1,186 @@
+
+.slider ul.slides li .caption {
+    display: none;
+}
+.qw-content-title {
+    display: none;
+}
+.maincolor-text {
+    color: #999;
+}
+.cbp-vm-view-list .cbp-vm-offair .cbp-vm-title {
+    color: #333333;
+}
+.cbp-vm-view-grid ul li.cpb-cardcont a.cbp-vm-add {
+    display: none;
+    margin-bottom: 25px;
+}
+.qw-padded {
+    padding: 0;
+}
+a {
+    color: #666666;
+    font-weight: 600;
+}
+.cbp-vm-view-grid h2 {
+    padding-left: 40px;
+}
+.container.qw-footer-widgets.maincolor.z-depth-4 {
+    padding: 20px;
+}
+div.container.maincolor.dark {
+    font-size: 11px;
+    font-weight: 400;
+    padding: 20px;
+}
+.accentcolor {
+    background-color: #ffffff;
+    color: #333;
+    font-weight: 600;
+}
+.grey-text.text-lighten-1 {
+    color: #fff;
+}
+.qw-posrelative {
+    position: relative;
+    top: 5px;
+}
+ul.qw-smallmenu li {
+    position: relative;
+    top: 2px;
+}
+#qwMainNavbar .maincolor {
+    background-color: #ffffff;
+}
+.maincolor a {
+    color: #666666;
+    font-size: 17px;
+}
+.maincolor a:hover {
+    color: #666666;
+}
+.qw-extraheader .slider {
+    display: none;
+}
+.qw-parallax-background-css {
+    background: rgba(0, 0, 0, 0) url("http://webmediasolutionz.com/projects/clients/new_CPAM1410/wp-content/uploads/2017/03/header3.png") no-repeat scroll center 0;
+}
+.select-wrapper input.select-dropdown {
+    font-size: 2rem;
+    text-align: center;
+}
+h4 {
+    background: #ccc none repeat scroll 0 0;
+    font-size: 1.58rem;
+    line-height: 2.508rem;
+    text-align: center;
+}
+.widget .qw-widget-title {
+    background: #ffffff none repeat scroll 0 0;
+    border-color: #333333;
+    font-size: 17px;
+    padding: 12px;
+}
+aside.widget ul li:first-child {
+    padding-top: 15px;
+}
+aside.widget ul li {
+    padding: 7px 10px;
+}
+#qwMainNavbar .maincolor {
+    background-color: #36000d;
+}
+i.mdi-av-play-arrow {
+    background: #f2d337 none repeat scroll 0 0;
+    margin-left: 0;
+}
+nav .nav-wrapper i {
+    color: #cd0324;
+    display: block;
+    font-size: 2.85rem;
+    position: relative;
+    right: 1px;
+}
+.qw-playerbutton i {
+    height: 46px;
+    line-height: 46px;
+    margin: 0 auto 0 1px;
+}
+.maincolor a {
+    color: #fff;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.qw-footer-widgets.maincolor a {
+    color: #333;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+nav a.button-collapse {
+    left: 15px;
+    position: absolute;
+    top: 0;
+}
+.cbp-header-title {
+    display: none;
+}
+h4, h5 {
+    display: none;
+}
+.cbp-vm-options {
+    display: none;
+}
+.select-wrapper input.select-dropdown {
+    font-size: 1.5rem;
+    text-align: center;
+}
+.select-wrapper .mdi-navigation-arrow-drop-down {
+    font-size: 62px;
+    right: 10px;
+    top: -27px;
+}
+.dropdown-content li > span {
+    border-bottom: 1px solid #ddd;
+    color: #555555;
+    display: block;
+    font-size: 1.6rem;
+    padding: 1rem;
+    text-align: center;
+}
+.page-id-2433 .qw-content.qw-relative.z-depth-1 {
+    padding: 0;
+    width: 100%;
+}
+#qwSingleContainer {
+    background: #fff none repeat scroll 0 0;
+    padding: 20px;
+}
+.maincolor-text {
+    color: #333;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.single-shows .qw-subtitle, .single-shows .qw-subtitle2 {
+    display: block;
+    margin: 0;
+}
+table.responsive-table {
+    display: none;
+}
+.qw-categories {
+    display: none;
+}
+.qw-scrollbutton-footer {
+    display: none;
+}
+.qw-scrollbutton-top {
+    display: none;
+}
+.onairwidget a.btn {
+    display: none;
+}
+.maincolor a:hover {
+    color: #f2d337;
+}
