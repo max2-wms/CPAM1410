@@ -475,13 +475,13 @@ jQuery.fn.popupwindow = function(p)
 
 
 		                if(finalVolume < 33){
-		                	$("#theVolCursor i").removeClass("mdi-av-volume-down").removeClass("mdi-av-volume-up").addClass("mdi-av-volume-mute");
+		                	$("#theVolCursor i").removeClass("fa-volume-down").removeClass("fa-volume-up").addClass("fa-volume-off");
 		                }
 		                if(finalVolume >= 33 && finalVolume < 66){
-		                	$("#theVolCursor i").removeClass("mdi-av-volume-up").removeClass("mdi-av-volume-mute").addClass("mdi-av-volume-down");
+		                	$("#theVolCursor i").removeClass("fa-volume-up").removeClass("fa-volume-off").addClass("fa-volume-down");
 		                }
 		                if(finalVolume >=66){
-		                	$("#theVolCursor i").removeClass("mdi-av-volume-down").removeClass("mdi-av-volume-mute").addClass("mdi-av-volume-up");
+		                	$("#theVolCursor i").removeClass("fa-volume-down").removeClass("fa-volume-off").addClass("fa-volume-up");
 		                }
 		                
 

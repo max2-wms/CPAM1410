@@ -3,7 +3,8 @@
 <div class="main-content">
 	<div id="main_content" class="left">		
 		<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>           
-            <div class="page_title super_long_banner">&raquo;&nbsp;<?php the_title(); ?></div>
+						<?php include('partials/page_title.php'); ?>
+
             <?php the_content(); ?>
         <?php endwhile; else: endif; ?>
 	</div>

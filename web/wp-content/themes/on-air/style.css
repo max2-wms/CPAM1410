@@ -6,6 +6,41 @@ Author: Maxime Pierre
 Author URI: http://www.webmediasolutionz.com/
 */
 
+.post .post_thumbnail {
+	padding: 10px 10px 0 0;
+}
+
+.block {
+    display: block;
+}
+
+h3.page_title {
+    border-bottom: thin solid #CCC;
+    margin-bottom: 40px;
+}
+
+.h_line {
+    margin: 10px 0;
+}
+
+.post {
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: #CCC;
+    border-radius: 10px;
+}
+
+h5.heading {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+#map {
+    width: 350px;
+}
+
 img.wp-smiley,
 img.emoji {
     display: inline !important;
@@ -86,7 +121,7 @@ body,
 }
 
 a:hover {
-    color: #f1f1f1 !important;
+    color: #000 !important;
 }
 
 a {
@@ -344,6 +379,12 @@ aside.widget ul li {
 i.mdi-av-play-arrow {
     background: #f2d337;
     margin-left: 0px;
+    text-align: center;
+    font-size: 30px !important;
+}
+
+i.volume {
+    text-align: center;
 }
 
 nav .nav-wrapper i {
@@ -381,11 +422,6 @@ nav a.button-collapse {
 }
 
 .cbp-header-title {
-    display: none;
-}
-
-h4,
-h5 {
     display: none;
 }
 
