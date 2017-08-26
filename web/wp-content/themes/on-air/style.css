@@ -6,6 +6,19 @@ Author: Maxime Pierre
 Author URI: http://www.webmediasolutionz.com/
 */
 
+.post .post_thumbnail {
+	padding: 10px 10px 0 0;
+}
+
+.block {
+    display: block;
+}
+
+.h_line {
+    border: thin solid #CCC;
+    margin: 10px 0;
+}
+
 img.wp-smiley,
 img.emoji {
     display: inline !important;

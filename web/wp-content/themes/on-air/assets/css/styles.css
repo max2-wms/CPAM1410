@@ -105,3 +105,7 @@ div.wpcf7 input[type="file"] {
 div.wpcf7 input[type="file"]:disabled {
 	cursor: default;
 }
+
+.post .post_thumbnail {
+	padding: 10px 10px 0 0;
+}

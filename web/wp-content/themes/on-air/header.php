@@ -11,6 +11,9 @@
 
 		<title>CPAM – 1040</title>
 
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 		<link rel="profile" href="http://gmpg.org/xfn/11">
 		<link rel="pingback" href="http://webmediasolutionz.com/projects/clients/new_CPAM1410/xmlrpc.php">
 		<link rel="dns-prefetch" href="http://s.w.org/">
@@ -57,10 +60,12 @@
 						<div class="row">
 							<div class="col s8 qw-nooverflow  qw-small qw-caps">
 								<ul id="secondarymenu" class="qw-smallmenu qw-nooverflow">
-									<li id="menu-item-3515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2433 current_page_item menu-item-3515"><a href="<?php echo get_page_link(10); ?>">Acceuil</a></li>
-									<li id="menu-item-3516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3516"><a href="<?php echo get_page_link(6550); ?>">Web Cam</a></li>
-									<li id="menu-item-3693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3693"><a href="<?php echo get_page_link(9064); ?>">Télé</a></li>
-									<li id="menu-item-3110" class="mdi-action-perm-phone-msg menu-item menu-item-type-post_type menu-item-object-page menu-item-3110"><a href="<?php echo get_page_link(16); ?>">Nous joindre</a></li>
+									<li id="menu-item-3515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-2433 current_page_item menu-item-3515<?php echo is_page(2) ? ' current-menu-item' : ''; ?>"><a href="<?php echo get_page_link(2); ?>">Acceuil</a></li>
+									<li id="menu-item-3516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3516<?php echo is_page(14) ? ' current-menu-item' : ''; ?>"><a href="<?php echo get_page_link(14); ?>">À Propos</a></li>
+									<li id="menu-item-3516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3516<?php echo is_page(10) ? ' current-menu-item' : ''; ?>"><a href="<?php echo get_page_link(10); ?>">Nos Émissions</a></li>
+									<li id="menu-item-3516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3516<?php echo is_page(6550) ? ' current-menu-item' : ''; ?>"><a href="<?php echo get_page_link(6550); ?>">Web Cam</a></li>
+									<li id="menu-item-3693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3693<?php echo is_page(9064) ? ' current-menu-item' : ''; ?>"><a href="<?php echo get_page_link(9064); ?>">Télé</a></li>
+									<li id="menu-item-3110" class="mdi-action-perm-phone-msg menu-item menu-item-type-post_type menu-item-object-page menu-item-3110<?php echo is_page(16) ? ' current-menu-item' : ''; ?>"><a href="<?php echo get_page_link(16); ?>">Nous joindre</a></li>
 								</ul>
 							</div>
 							<div class="col s4   qw-onair-widget">
@@ -83,13 +88,13 @@
 					</div>
 				</div>
 
-				<div class="qw-header-logo-big"><a href="<?php echo get_page_link(10); ?>"><img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/headercpam_final-2.png" class="img-responsive" alt="Home"></a></div>
+				<div class="qw-header-logo-big"><a href="<?php echo get_page_link(2); ?>"><img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/headercpam_final-2.png" class="img-responsive" alt="Home"></a></div>
 				<div class="qw-headernav">
 					<nav class="qw-animated " role="navigation" id="qwMainNavbar">
 						<div class=" qw-wrapper">
 							<div class="container qw-block-100p ">
 								<div class="nav-wrapper maincolor  z-depth-2">
-									<a href="http://webmediasolutionz.com/projects/clients/new_CPAM1410" class="brand-logo" id="logo-container"><img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/cpamlogoweb2-1.png" class="img-responsive qw-animated fast" alt="Home"></a>
+									<a href="<?php echo get_page_link(2); ?>" class="brand-logo" id="logo-container"><img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/cpamlogoweb2-1.png" class="img-responsive qw-animated fast" alt="Home"></a>
 									<ul id="qwtoggle" class=" hide-on-med-and-down dropDownMenu">
 										<li id="menu-item-3299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3299<?php echo is_page(14) ? ' current-menu-item' : ''; ?>"><a href="<?php echo get_page_link(14); ?>">À propos</a></li>
 										<li id="menu-item-3298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-2433 current_page_item menu-item-3298<?php echo is_page(10) ? ' current-menu-item' : ''; ?>"><a href="<?php echo get_page_link(10); ?>">Nos Émissions</a></li>
