@@ -2437,7 +2437,7 @@ ThreeSixtyPlayer.prototype.VUMeter = function(oParent) {
 
       link.href = '/favicon.ico';
       if($.cookie('qtPlayerStatus') === 'play' && jQuery.alreadyPlaying !== 1){          
-              playerIcon.addClass("mdi-av-pause").removeClass("mdi-av-play-arrow");
+              playerIcon.addClass("fa-pause").removeClass("fa-play");
               $("#qwPlayerPlay").attr("data-state", "play");
               $.mySound.play();  
         }

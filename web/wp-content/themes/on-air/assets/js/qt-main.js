@@ -547,7 +547,7 @@ jQuery.fn.popupwindow = function(p)
 		        if(playerMp3 !== ""){
 			        $.playerState = that.attr("data-state");
 			        if($.playerState === "play"){
-			            playerIcon.addClass("mdi-av-play-arrow").removeClass("mdi-av-pause");
+			            playerIcon.addClass("fa-play").removeClass("fa-pause");
 			            that.attr("data-state", "stop"); 
 			            console.log("pausing");
 			            $.cookie('qtPlayerStatus', 'pause', { expires: 1, path: '/' });
@@ -556,7 +556,7 @@ jQuery.fn.popupwindow = function(p)
 			            }
 			            console.log("Status of the player cookie: "+ $.cookie('qtPlayerStatus'));
 			        } else {
-			            playerIcon.addClass("mdi-av-pause").removeClass("mdi-av-play-arrow");
+			            playerIcon.addClass("fa-pause").removeClass("fa-play");
 			            that.attr("data-state", "play");
 			            $.mySound.play();   
 			            $.cookie('qtPlayerStatus', 'play', { expires: 7, path: '/' });
@@ -579,7 +579,7 @@ jQuery.fn.popupwindow = function(p)
 
 		    	console.log("Resuming play status");
 
-		    	playerIcon.addClass("mdi-av-pause").removeClass("mdi-av-play-arrow");
+		    	playerIcon.addClass("fa-pause").removeClass("fa-play");
 	            mainPlayerButton.attr("data-state", "play");
 	            $.mySound.play();  
 			    if(jQuery.cookie("qt_volume") !== null && typeof($.mySound) !== undefined){
@@ -599,13 +599,13 @@ jQuery.fn.popupwindow = function(p)
 					finalVolume = jQuery.cookie("qt_volume");
 					 $.mySound.setVolume(finalVolume);
 					 if(finalVolume < 33){
-		            	$("#theVolCursor i").removeClass("mdi-av-volume-down").removeClass("mdi-av-volume-up").addClass("mdi-av-volume-mute");
+		            	$("#theVolCursor i").removeClass("mdi-av-volume-down").removeClass("mdi-av-volume-up").addClass("fa-pause");
 		            }
 		            if(finalVolume >= 33 && finalVolume < 66){
-		            	$("#theVolCursor i").removeClass("mdi-av-volume-up").removeClass("mdi-av-volume-mute").addClass("mdi-av-volume-down");
+		            	$("#theVolCursor i").removeClass("mdi-av-volume-up").removeClass("fa-pause").addClass("mdi-av-volume-down");
 		            }
 		            if(finalVolume >=66){
-		            	$("#theVolCursor i").removeClass("mdi-av-volume-down").removeClass("mdi-av-volume-mute").addClass("mdi-av-volume-up");
+		            	$("#theVolCursor i").removeClass("mdi-av-volume-down").removeClass("fa-pause").addClass("mdi-av-volume-up");
 		            }
 		     
 
@@ -628,7 +628,7 @@ jQuery.fn.popupwindow = function(p)
 		    */
 		    if(QT_player_autoplay === "yes" && $.cookie('qtPlayerStatus') !== 'pause' && $.cookie('qtPlayerStatus') !== 'play'){
 		    	console.log("Doing autoplay");
-		    	playerIcon.addClass("mdi-av-pause").removeClass("mdi-av-play-arrow");
+		    	playerIcon.addClass("fa-pause").removeClass("fa-play");
 		    	mainPlayerButton.attr("data-state", "play");
 		    	$.cookie('qtPlayerStatus', 'play');
 			    $.mySound.play();   
@@ -655,14 +655,14 @@ jQuery.fn.popupwindow = function(p)
 
 		    	$("#radioname").html(that.find("span").html());
 
-	    		mainIcon.addClass("mdi-av-play-arrow").removeClass("mdi-av-pause");
+	    		mainIcon.addClass("fa-play").removeClass("fa-pause");
 	    		var sound = soundManager.getSoundById('chinaCymbal');
 	    		soundManager.destroySound('currentSound');
 	    		$.mySound = soundManager.createSound({
 	                id: 'currentSound',
 	                url: newMp3Url
 	            });
-	            mainIcon.addClass("mdi-av-pause").removeClass("mdi-av-play-arrow");
+	            mainIcon.addClass("fa-pause").removeClass("fa-play");
 		    	mainPlayerButton.attr("data-state", "play");
 			    $.mySound.play();
 			    $.cookie('playerMp3', newMp3Url, { expires: 7, path: '/' });

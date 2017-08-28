@@ -114,7 +114,7 @@
 												<div class="qw-musicplayer" id="qwMusicPlayerContainer">
 													<a class="accentcolor qw-playerbutton waves-effect waves-light tooltipped qwPlayerPlay" id="qwPlayerPlay" data-position="left"
 													data-tooltip="Play" data-mp3="http://s1.voscast.com:7538/;stream.mp3?sid=1" data-autoplay="no" data-state="stop" href="#" data-soundmanagerswf="http://webmediasolutionz.com/projects/clients/new_CPAM1410/wp-content/themes/on-air/js/soundmanager2.swf">
-			<i class="mdi-av-play-arrow fa fa-play" aria-hidden="true"></i><!-- mdi-av-pause -->
+			<i class="mdi-av-play-arrow fa fa-play" aria-hidden="true"></i><!-- fa-pause -->
 		</a>
 													<div id="qtVolumeControl" class="qw-animated qw-volume-control maincolor dark hidden-ipad-and-down">
 														<a class="qw-playerbutton maincolor z-depth-2 tooltipped" href="#" data-position="top" data-tooltip="Volume" id="theVolCursor">
