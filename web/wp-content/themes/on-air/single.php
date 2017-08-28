@@ -14,7 +14,7 @@
             
             <div class="h_line"></div>
             
-            <a href="<?php echo get_page_link(2); ?>"><?php echo $lang['read all']; ?></a>
+            <a href="<?php echo get_page_link(12); ?>"><?php echo $lang['read all']; ?></a>
             
         <?php endwhile; else: endif; ?>
 	</div>
