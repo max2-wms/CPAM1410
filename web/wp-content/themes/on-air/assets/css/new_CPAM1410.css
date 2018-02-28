@@ -1,0 +1,19 @@
+.main-content {
+    margin-top: 30px;
+}
+
+.main-content #main_content {
+    width: 65%;
+    padding: 25px;
+    background-color: #FFF;
+}
+
+.main-content #sidebar {
+    width: 30%;
+    padding: 25px;
+    background-color: #FFF;
+}
+
+.clear {
+    clear: both;
+}

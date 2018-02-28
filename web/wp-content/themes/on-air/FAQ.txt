@@ -1,0 +1,20 @@
+Please:
+1. download the latest version of the theme from themeforest
+2. update it online via FTP replacing the old one
+3. unzip the theme folder in your pc (or mac)
+4. go to slam/plugin/tgm
+5. copy the plugins folder which are zipped in there to your desktop
+6. delete the plugins revolution slider and ajax revslider from your site
+7. install the ones that are on your desktop, extracted from the theme
+
+As the issue comes from outdated versions, this should solve.
+
+If you still have the problem, sometimes is caused from slow/cheap servers, to
+solve it:
+
+1. install w3 total cache
+2. enable page and database cache (not other features)
+3. retry 
+
+this will solve the issue when caused by timeout from the server which sometimes
+can happen.

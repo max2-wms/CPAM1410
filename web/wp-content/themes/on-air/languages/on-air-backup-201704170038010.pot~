@@ -1,0 +1,1171 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ON AIR! Web Radio Wordpress Theme\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-10-02 13:46+0200\n"
+"PO-Revision-Date: \n"
+"Language-Team: QantumThemes <info@qantumthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:25 search.php:51 search.php:79 searchpage.php:30
+msgid "You can make a new search here:"
+msgstr ""
+
+#: 404.php:38 search.php:62 searchpage.php:45
+msgid "Or check our latest news:"
+msgstr ""
+
+#: archive-chart.php:25 inc/breadcrumb.php:64
+msgid "Charts"
+msgstr ""
+
+#: archive-members.php:13 taxonomy-membertype.php:13
+msgid "Team"
+msgstr ""
+
+#: archive-podcast.php:32
+msgid "podcast"
+msgstr ""
+
+#: archive-podcast.php:34 inc/breadcrumb.php:35 inc/breadcrumb.php:101
+msgid "Podcast"
+msgstr ""
+
+#: archive-podcast.php:82 archive-podcast.php:89
+msgid "Sorry, nothing here"
+msgstr ""
+
+#: archive-qtvideo.php:13 part-archivetitle.php:14
+msgid "Videos"
+msgstr ""
+
+#: archive-qtvideo.php:55 blog-2columns.php:91 blog-3columns.php:91
+#: loop-archive.php:30 loop-archivesearch.php:15 page-videos.php:79
+#: taxonomy-chartcategory.php:83 taxonomy-genre.php:81
+msgid "Previous page"
+msgstr ""
+
+#: archive-qtvideo.php:56 blog-2columns.php:92 blog-3columns.php:92
+#: loop-archive.php:31 loop-archivesearch.php:16 page-videos.php:80
+#: taxonomy-chartcategory.php:84 taxonomy-genre.php:82
+msgid "Next page"
+msgstr ""
+
+#: archive-qtvideo.php:57 blog-2columns.php:93 blog-3columns.php:93
+#: loop-archive.php:32 loop-archivesearch.php:17 page-videos.php:81
+#: taxonomy-chartcategory.php:85 taxonomy-genre.php:83
+msgid "Page"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments"
+msgstr ""
+
+#: comments.php:32 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:85
+msgid "Required fields are marked *"
+msgstr ""
+
+#: comments.php:91
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:92
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:94
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:95
+msgid "Comment"
+msgstr ""
+
+#: comments.php:99
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:104
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:111
+msgid "Your email address will not be published. "
+msgstr ""
+
+#: comments.php:122
+msgid "Name"
+msgstr ""
+
+#: comments.php:123
+msgid "Email"
+msgstr ""
+
+#: comments.php:124
+msgid "Website"
+msgstr ""
+
+#: customizer-boilerplate/options.php:37
+msgid "Background images"
+msgstr ""
+
+#: customizer-boilerplate/options.php:51
+msgid "Header background  image"
+msgstr ""
+
+#: customizer-boilerplate/options.php:64
+msgid "Footer background image"
+msgstr ""
+
+#: customizer-boilerplate/options.php:77
+msgid "Page background image"
+msgstr ""
+
+#: customizer-boilerplate/options.php:92
+msgid "Theme Colors"
+msgstr ""
+
+#: customizer-boilerplate/options.php:105
+msgid "Background Color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:118
+msgid "Paper Background Color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:131
+msgid "Text color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:144
+msgid "Main Color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:157
+msgid "Main Color Dark Variant"
+msgstr ""
+
+#: customizer-boilerplate/options.php:170
+msgid "Header Background Color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:183
+msgid "Text color on main color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:196
+msgid "Link color on main color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:209
+msgid "Link hover color on main color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:222
+msgid "Accent Color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:235
+msgid "Accent Color darker variant"
+msgstr ""
+
+#: customizer-boilerplate/options.php:248
+msgid "Accent Color Hover"
+msgstr ""
+
+#: customizer-boilerplate/options.php:261
+msgid "Text color on accent color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:274
+msgid "Links color on accent color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:287
+msgid "Links Hover color on accent color"
+msgstr ""
+
+#: customizer-boilerplate/options.php:312
+msgid "Music Player Settings"
+msgstr ""
+
+#: customizer-boilerplate/options.php:325
+msgid "Enable streaming music player"
+msgstr ""
+
+#: customizer-boilerplate/options.php:329
+#: customizer-boilerplate/options.php:379
+#: customizer-boilerplate/options.php:596
+#: customizer-boilerplate/options.php:1203
+msgid "No"
+msgstr ""
+
+#: customizer-boilerplate/options.php:332
+#: customizer-boilerplate/options.php:382
+#: customizer-boilerplate/options.php:593
+#: customizer-boilerplate/options.php:1200
+msgid "Yes"
+msgstr ""
+
+#: customizer-boilerplate/options.php:344
+msgid "Player type (Need page refresh)"
+msgstr ""
+
+#: customizer-boilerplate/options.php:348
+msgid "Featured player"
+msgstr ""
+
+#: customizer-boilerplate/options.php:351
+msgid "360 Animated player"
+msgstr ""
+
+#: customizer-boilerplate/options.php:354
+msgid "External Javascript"
+msgstr ""
+
+#: customizer-boilerplate/options.php:375
+msgid "Autoplay on page open"
+msgstr ""
+
+#: customizer-boilerplate/options.php:396
+msgid "URL of the mp3 stream"
+msgstr ""
+
+#: customizer-boilerplate/options.php:407
+msgid ""
+"Other player javascript code (Url of external javascript to render your "
+"radio player)"
+msgstr ""
+
+#: customizer-boilerplate/options.php:430
+msgid "Popup Player"
+msgstr ""
+
+#: customizer-boilerplate/options.php:444
+msgid "Enable Popup Player button"
+msgstr ""
+
+#: customizer-boilerplate/options.php:446
+msgid "Add a button to open a popup in the menu section"
+msgstr ""
+
+#: customizer-boilerplate/options.php:459
+msgid "Text of the button"
+msgstr ""
+
+#: customizer-boilerplate/options.php:474
+msgid "Width of the popup player"
+msgstr ""
+
+#: customizer-boilerplate/options.php:476
+#: customizer-boilerplate/options.php:490
+msgid "Number (Pixel)"
+msgstr ""
+
+#: customizer-boilerplate/options.php:488
+msgid "Height of the popup player"
+msgstr ""
+
+#: customizer-boilerplate/options.php:503
+msgid "URL of the popup window"
+msgstr ""
+
+#: customizer-boilerplate/options.php:505
+msgid ""
+"Link to your external playr window. Use a full url as http://.... and upload "
+"your popup wherever you want"
+msgstr ""
+
+#: customizer-boilerplate/options.php:527
+msgid "Schedule settings"
+msgstr ""
+
+#: customizer-boilerplate/options.php:543
+msgid "Time format for schedule and show slider"
+msgstr ""
+
+#: customizer-boilerplate/options.php:547
+msgid "12 Hours Format"
+msgstr ""
+
+#: customizer-boilerplate/options.php:550
+msgid "24 Hours Format"
+msgstr ""
+
+#: customizer-boilerplate/options.php:575
+msgid "Footer app links"
+msgstr ""
+
+#: customizer-boilerplate/options.php:589
+msgid "Enable apps links bar in footer"
+msgstr ""
+
+#: customizer-boilerplate/options.php:612
+msgid "\"You can listen also on\" text"
+msgstr ""
+
+#: customizer-boilerplate/options.php:625
+msgid "Android App"
+msgstr ""
+
+#: customizer-boilerplate/options.php:636
+msgid "iPhone App"
+msgstr ""
+
+#: customizer-boilerplate/options.php:647
+msgid "Blackberry App"
+msgstr ""
+
+#: customizer-boilerplate/options.php:658
+msgid "iTunes App"
+msgstr ""
+
+#: customizer-boilerplate/options.php:669
+msgid "Windows Phone App"
+msgstr ""
+
+#: customizer-boilerplate/options.php:680
+msgid "Winamp link"
+msgstr ""
+
+#: customizer-boilerplate/options.php:691
+msgid "Windows Media Player"
+msgstr ""
+
+#: customizer-boilerplate/options.php:709
+msgid "Social links"
+msgstr ""
+
+#: customizer-boilerplate/options.php:720
+msgid "Facebook page"
+msgstr ""
+
+#: customizer-boilerplate/options.php:731
+msgid "Amazon page"
+msgstr ""
+
+#: customizer-boilerplate/options.php:742
+msgid "Blogger"
+msgstr ""
+
+#: customizer-boilerplate/options.php:753
+msgid "Behance"
+msgstr ""
+
+#: customizer-boilerplate/options.php:764
+msgid "Bebo"
+msgstr ""
+
+#: customizer-boilerplate/options.php:775
+msgid "Flickr page"
+msgstr ""
+
+#: customizer-boilerplate/options.php:786
+msgid "Pinterest page"
+msgstr ""
+
+#: customizer-boilerplate/options.php:797
+msgid "Rss page"
+msgstr ""
+
+#: customizer-boilerplate/options.php:808
+msgid "Triplevision page"
+msgstr ""
+
+#: customizer-boilerplate/options.php:819
+msgid "Tumblr page"
+msgstr ""
+
+#: customizer-boilerplate/options.php:830
+msgid "Twitter"
+msgstr ""
+
+#: customizer-boilerplate/options.php:841
+msgid "Vimeo"
+msgstr ""
+
+#: customizer-boilerplate/options.php:852
+msgid "Wordpress"
+msgstr ""
+
+#: customizer-boilerplate/options.php:863
+msgid "Whatpeopleplay"
+msgstr ""
+
+#: customizer-boilerplate/options.php:874
+msgid "Youtube"
+msgstr ""
+
+#: customizer-boilerplate/options.php:885
+msgid "Soundcloud"
+msgstr ""
+
+#: customizer-boilerplate/options.php:896
+msgid "Myspace"
+msgstr ""
+
+#: customizer-boilerplate/options.php:907
+msgid "Google+"
+msgstr ""
+
+#: customizer-boilerplate/options.php:918
+msgid "Itunes"
+msgstr ""
+
+#: customizer-boilerplate/options.php:929
+msgid "Juno"
+msgstr ""
+
+#: customizer-boilerplate/options.php:940
+msgid "Lastfm"
+msgstr ""
+
+#: customizer-boilerplate/options.php:951
+msgid "Linkedin"
+msgstr ""
+
+#: customizer-boilerplate/options.php:962
+msgid "Mixcloud"
+msgstr ""
+
+#: customizer-boilerplate/options.php:973
+msgid "Resident Advisor"
+msgstr ""
+
+#: customizer-boilerplate/options.php:984
+msgid "Reverbnation"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1002
+msgid "Branding"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1018
+msgid "Logo in menu bar (Max 560 x 100px)"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1033
+msgid "Logo header"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1047
+msgid "Logo margin top"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1061
+msgid "Logo max height"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1078
+msgid "Logo margin top on Sticky Bar"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1092
+msgid "Logo max height on Sticky Bar"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1109
+msgid "Logo margin top mobile"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1124
+msgid "Logo max height mobile"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1138
+msgid "Favicon (.ico)"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1156
+msgid "Footer"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1169
+msgid "Footer text"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1183
+msgid "Website layout"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1196
+msgid "Show header bar"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1217
+msgid "Sidebar number"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1221
+msgid "One Sidebar"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1224
+msgid "Two sidebars"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1238
+msgid "Maximum site width (in pixel)"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1251
+msgid "Schedule Default Layout"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1255
+msgid "Grid"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1258
+msgid "List"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1295
+msgid "Google Fonts"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1311
+msgid "Enable Google Fonts"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1315
+msgid "Enable"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1318
+msgid "Disable"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1335
+msgid "Captions Font Weight"
+msgstr ""
+
+#: customizer-boilerplate/options.php:1354
+msgid "Text Font"
+msgstr ""
+
+#: footer.php:17
+msgid "Discover More"
+msgstr ""
+
+#: footer.php:86
+msgid "Top"
+msgstr ""
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:43
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:46
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Featured Image"
+msgstr ""
+
+#: functions.php:174
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:184
+msgid "Extra Sidebar"
+msgstr ""
+
+#: functions.php:194
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:203
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:211
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:221
+msgid "Popup Widgets"
+msgstr ""
+
+#: functions.php:256
+msgid " "
+msgstr ""
+
+#: header.php:87
+msgid "On Air"
+msgstr ""
+
+#: inc/breadcrumb.php:9 inc/customizations.php:210 inc/customizations.php:227
+#: inc/customizations.php:249
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:30
+msgid "Releases"
+msgstr ""
+
+#: inc/breadcrumb.php:40
+msgid "Artists"
+msgstr ""
+
+#: inc/breadcrumb.php:45
+msgid "Events"
+msgstr ""
+
+#: inc/breadcrumb.php:50
+msgid "Members"
+msgstr ""
+
+#: inc/breadcrumb.php:55 part-archivetitle.php:30
+msgid "Shows"
+msgstr ""
+
+#: inc/breadcrumb.php:60
+msgid "Schedules"
+msgstr ""
+
+#: inc/breadcrumb.php:127 inc/breadcrumb.php:128 inc/breadcrumb.php:129
+msgid "Archive for"
+msgstr ""
+
+#: inc/breadcrumb.php:130
+msgid "Author Archive"
+msgstr ""
+
+#: inc/breadcrumb.php:131
+msgid "Blog Archives"
+msgstr ""
+
+#: inc/breadcrumb.php:132
+msgid "Search Results"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgctxt "Previous post link"
+msgid "<span class=\"qticon-arrow-left\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:40
+msgctxt "Next post link"
+msgid "<span class=\"qticon-arrow-right\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgid "<span class=\"qticon-arrow-left\"></span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Newer posts <span class=\"qticon-arrow-right\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:114
+#, php-format
+msgid "%s &nbsp; On &nbsp;"
+msgstr ""
+
+#: inc/template-tags.php:116
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: part-archivetitle.php:3 searchpage.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: part-archivetitle.php:7
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: part-archivetitle.php:9
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: part-archivetitle.php:10
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: part-archivetitle.php:11
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: part-archivetitle.php:12
+msgid "Asides"
+msgstr ""
+
+#: part-archivetitle.php:13
+msgid "Images"
+msgstr ""
+
+#: part-archivetitle.php:15
+msgid "Quotes"
+msgstr ""
+
+#: part-archivetitle.php:16
+msgid "Links"
+msgstr ""
+
+#: part-archivetitle.php:17
+msgid "Galleries"
+msgstr ""
+
+#: part-archivetitle.php:18
+msgid "Sounds"
+msgstr ""
+
+#: part-archivetitle.php:38
+msgid "charts"
+msgstr ""
+
+#: part-archivetitle.php:45
+msgid "videos"
+msgstr ""
+
+#: part-archivetitle.php:46
+msgid "Archives"
+msgstr ""
+
+#: part-chart-compact.php:71 part-chart.php:42
+msgid "Go to shop"
+msgstr ""
+
+#: part-chart-item.php:14 part-podcast-item.php:14 part-post-featured.php:17
+#: part-post-small.php:18 part-post-small.php:25 part-post-third.php:18
+#: part-post-third.php:25 part-post.php:22 part-post.php:29
+#: part-schedule.php:129 part-searchresult.php:5
+msgid "Read"
+msgstr ""
+
+#: part-chart.php:52 part-podcast-item.php:22
+msgid "Listen"
+msgstr ""
+
+#: part-members-item.php:63
+msgid "More info"
+msgstr ""
+
+#: part-musicplayer.php:2
+msgid "Play"
+msgstr ""
+
+#: part-musicplayer.php:6
+msgid "Volume"
+msgstr ""
+
+#: part-musicplayer.php:45
+msgid "Other channels"
+msgstr ""
+
+#: part-onair.php:165 part-schedule.php:146
+msgid "Sorry, there are no shows scheduled on this day"
+msgstr ""
+
+#: part-post-featured.php:4
+msgid "Featured"
+msgstr ""
+
+#: part-qtvideo-item.php:32
+msgid "Play here"
+msgstr ""
+
+#: part-qtvideo-item.php:37
+msgid "Go to page"
+msgstr ""
+
+#: part-schedule.php:87
+msgid "Read More about "
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:161 plugins/tgm/plugins.php:96
+msgid "Install Required Plugins"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:162 plugins/tgm/plugins.php:97
+msgid "Install Plugins"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:163 plugins/tgm/plugins.php:98
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:165 plugins/tgm/plugins.php:100
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:166 plugins/tgm/plugins.php:101
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:167 plugins/tgm/plugins.php:102
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:168 plugins/tgm/plugins.php:103
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:169 plugins/tgm/plugins.php:104
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:170 plugins/tgm/plugins.php:105
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:171 plugins/tgm/plugins.php:106
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:172 plugins/tgm/plugins.php:107
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:173 plugins/tgm/plugins.php:108
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:175 plugins/tgm/plugins.php:110
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:177
+#: plugins/tgm/class-tgm-plugin-activation.php:1956 plugins/tgm/plugins.php:111
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:178
+#: plugins/tgm/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:532
+#: plugins/tgm/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1167
+#: plugins/tgm/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1170
+#: plugins/tgm/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1288
+#: plugins/tgm/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1312
+#: plugins/tgm/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2070
+#: plugins/tgm/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2070
+#: plugins/tgm/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/tgm/plugins.php:99
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: plugins/tgm/plugins.php:109
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/tgm/plugins.php:111 plugins/tgm/plugins.php:112
+msgid "Go to One Click Installer"
+msgstr ""
+
+#: plugins/tgm/plugins.php:112
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: search.php:33
+msgid " Results for: "
+msgstr ""
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "Type and press enter &hellip;"
+msgstr ""
+
+#: sharepage-large.php:37
+msgid "Share"
+msgstr ""
+
+#: single-chart.php:42 single-podcast.php:69 single-qtvideo.php:41
+#: single-shows.php:149
+msgid "In: "
+msgstr ""
+
+#: single-notitle.php:51 single.php:49
+msgid "Pages:"
+msgstr ""

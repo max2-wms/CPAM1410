@@ -6,7 +6,7 @@
             <div class="page_title super_long_banner">&raquo;&nbsp;<?php the_title(); ?></div>
         <?php endwhile; else: endif; ?>
             
-		<?php $the_query = new WP_Query( "cat=7" ); ?>
+		<?php // $the_query = new WP_Query( "cat=7" ); ?>
 		<?php while ( $the_query->have_posts() ) : $the_query->the_post(); ?> 
             <h4 class="heading uppercase no_margins"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h4>
             <div class="the_date"><?php the_date(); ?></div>

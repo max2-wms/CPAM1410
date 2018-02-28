@@ -1,0 +1,59 @@
+/* = 4. Typography
+==============================================================*/
+body#tinymce.wp-editor {font-family: 'Lato', sans-serif;  }
+body#tinymce.wp-editor h1 + p,
+body#tinymce.wp-editor h2 + p,
+body#tinymce.wp-editor h3 + p,
+body#tinymce.wp-editor h4 + p {margin-top:4px;}
+body#tinymce.wp-editorp + h1,
+body#tinymce.wp-editor p + h2,
+body#tinymce.wp-editor p + h3,
+body#tinymce.wp-editor p + h4,
+body#tinymce.wp-editor p + h5,
+
+body#tinymce.wp-editor table + h1,
+body#tinymce.wp-editor table + h2,
+body#tinymce.wp-editor table + h3,
+body#tinymce.wp-editor table + h4,
+body#tinymce.wp-editor table + h5,
+
+body#tinymce.wp-editor dl + h1,
+body#tinymce.wp-editor dl + h2,
+body#tinymce.wp-editor dl + h3,
+body#tinymce.wp-editor dl + h4,
+body#tinymce.wp-editor dl + h5,
+
+body#tinymce.wp-editor ul + h1,
+body#tinymce.wp-editor ul + h2,
+body#tinymce.wp-editor ul + h3,
+body#tinymce.wp-editor ul + h4,
+body#tinymce.wp-editor ul + h5,
+body#tinymce.wp-editor ol + h1,
+body#tinymce.wp-editor ol + h2,
+body#tinymce.wp-editor ol + h3,
+body#tinymce.wp-editor ol + h4,
+body#tinymce.wp-editor ol + h5,
+
+body#tinymce.wp-editor blockquote + h1,
+body#tinymce.wp-editor blockquote + h2,
+body#tinymce.wp-editor blockquote + h3,
+body#tinymce.wp-editor blockquote + h4,
+body#tinymce.wp-editor blockquote + h5{margin-top: .7em;}
+body#tinymce.wp-editor ul,
+body#tinymce.wp-editor ol {margin: 5px 0 16px 20px;}
+body#tinymce.wp-editor dl {margin: 5px 0 0 0;  padding: 0;}
+body#tinymce.wp-editor dd {padding: 3px 0 3px 0; margin: 3px 0;}
+body#tinymce.wp-editor dt {color:#333;line-height: 13px;margin: 12px 0 0 0;padding: 0 0 2px 0;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;  box-sizing: border-box; }
+body#tinymce.wp-editor dl {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box; padding:1px;}
+body#tinymce.wp-editor pre {
+	width: 100%;                          /* specify width  */
+	white-space: pre-wrap;                 /* CSS3 browsers  */
+	white-space: -moz-pre-wrap !important; /* 1999+ Mozilla  */
+	white-space: -pre-wrap;                /* Opera 4 thru 6 */
+	white-space: -o-pre-wrap;              /* Opera 7 and up */
+	word-wrap: break-word;                 /* IE 5.5+ and up */
+	}
+body#tinymce.wp-editor .text-center {text-align:center;}
+body#tinymce.wp-editor .text-right {text-align:right;}
+body#tinymce.wp-editor .italic {font-style: italic;}
+

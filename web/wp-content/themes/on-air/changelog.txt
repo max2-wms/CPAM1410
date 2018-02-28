@@ -1,0 +1,159 @@
+1.2.6
+* Updated soundmanager2 libraries for ios10
+* fixed styles for radio list in mobile
+* fixed logo alignment in mobile (left aligned)
+* added "scheduled on" section in single show page (ADDED part-showdate-by-title.php and edited single-shows.php:86->99)
+* added sharing button to single.php
+* added large share buttons template (sharepage-large.php)
+* added large share formatting in main-style.css:602-611
+* added better mobile recognization in functions.php
+* fixed Explorer and Edge Scrollreveal bug (pages empty on Edge and ie11) theme-libraries.js:70->75
+* ipad safari header background fix
+
+
+1.2.5
+* wp-content/plugins/qt-radio-suite/custom-types/shows ADDED order attribute, used in genre archives
+
+1.2.4
+* fixed double select in forms issue
+
+1.2.3
+* META_BOX.PHP:177 added check "if(is_array($meta)){"
+* qt-main.js:514 fixed function $.fn.initializeAudioStream (if autoplay, pausing the music will keep paused after page change)
+* qt radio suite plugin updated (in_array error for some servers)
+
+
+1.2.2
+* Better bold font suppoer
+* fixed "Read" translation in post template parts
+
+1.2.1
+* better buttons positioning in mobile
+
+1.2.0
+* Blockquote custom color added in customizations.php
+* default page template hide title enabled
+* youtube responsiveness updated
+
+1.1.9
+* updated .po .mo
+* added .pot file
+* updated plugin WT Radio Suite (added better support for translation)
+* updated part-post.php, part-post-third.php and part-post-featured.php where the word Read was not translatable
+ 
+1.1.8 (2016 03 21) MAJOR UPDATE
+NOTE FOR THE USERS:
+PLEASE REFRESH PERMALINKS IN SETTINGS->PERMALINKS
+AND UPDATE THE PLUGIN QT-RADIO-SUITE
+
+* updated Radio Suite: added styles 326 to 330 in style.css and $(".qt-widescreen").each(function(i,c){ in script.js to force the slider proportion
+* fixed parallax background in iOS safari browser
+* fixed tooltips iOS safari browser
+* fixed player state on page change with Featured Player and alternative radio channel playing //  if(jQuery.cookie("qt_volume") !== null && typeof($.mySound) !== undefined){
+
+* added .mo .po languages files to QT Radio Suite plugin, added strings to translations
+
+* added Podcast support: podcast post type, archive templates and podcast widget
+* added social network links to Show pages
+* added numbering for repeatable fields, to help building long charts
+
+1.1.7 (2016 02 02) MINOR UPDATE
+* Fixed issue with Show Schedule page template
+* Added option "All" for the blog template
+* Moved category dropdown to "Page Extras" instead of "Page Header"
+* Updated .po .mo translations
+* several translations added in the .po .mo
+
+
+1.1.6 (2016 01 21 - 2016 01 24) MAJOR UPDATE: MANY FUNCTIONS ADDED
+
+PLEASE UPDATE THE THEME PLUGINS
+
+IMPORTANT: 
+* Updated QT Radio Suite plugin
+* Updated QT Banner plugin
+
+FEATURED PLAYER:
+* added Radio Channels post type
+* added unlimited radios playlist capability to Featured Player
+* Added volume background svg
+* added tooltips and animations to featured player
+* added animated radio title to the Featured player
+
+CHARTS:
+* added youtube support for charts
+* Added Chart widget
+
+POPUP PLAYER:
+* added popup player button in the Customizer
+* adder popup player template (Add new page and choose popup player template)
+* added widget section for the popup player
+
+BLOG PAGES
+* added category dropdown to blog pages
+
+SCHEDULE
+* added schedule template for single schedules
+
+SCHEDULE SETTINGS
+* Schedule grid and slideshow settings: added 12/24 hours format in theme customizer
+
+OTHER CHANGES
+* removed double link to customization in appearance menu
+* added translation possibility to "Now on air" in showslide.php
+* "More Info" translatable in part-members-item.php
+
+
+===========================================================================
+
+1.1.5 
+* added content to Chart page template
+
+1.1.4 (started 205 10 15)
+* Added taxonomy-membertype.php template file
+* archive-members.php removed useless query
+* added page attributes to members
+* customizer-boilerplate/options.php:1126 imported googlefonts as php instead of txt.
+* added googlefonts.php in customizer-boilerplate/
+
+- missing strings:
+More Info            -            Mehr Infos
+Read            -            Lesen
+Discover More            -            Mehr erfahren
+Type and press enter            -            Tippen und Enter klicken
+Choose a day            -            Wähle einen Tag
+
+1.1.3
+* Updated QT RadioSuite to 1.0.1
+
+1.1.2
+* Corrected widgets function for wp 4.3
+
+1.1.1 [2015 09 10]
+* Added > in qt-main.js:80 $("#nav-mobile").on("click","li.menu-item-has-children > a", function(e){
+
+
+Still to do
+- now on air schedule override
+- javascript widgets and slideshow refresh
+- add tunein icon
+- woocommerce
+- chart video load after opening play
+- add instagram icon
+- add events support
+- fonts declination
+
+
+
+
+1. Shoutcast2... which you maybe know enought, because you work on this
+2. Icecast2...which is also famous server type... http://adas.datalight.hu:8430/status.xsl
+3. Or a 3rd server type called CAST, which is an Icecast2 based server but more quicker and easier solution... some stations use this, because the stability is better than Icecast 2... this works like this:
+http://adas3.allinparty.hu:8430/status-json.xsl (we use this... so it would be cool to work with this ;)
+4. And of course the icecast1 and simple shoutcast servers.
+
+
+
+
+
+- menu mobile +++++++++++++++++
