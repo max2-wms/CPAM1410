@@ -1,5 +1,5 @@
 <div id="sidebar" class="right">
-	<div class="hidden">
+	<div>
 		<?php 
 			if( is_page(2) ){
 		?>
