@@ -26,18 +26,7 @@
 
 
 
-			<div class="container qw-darkbg-dark2 white-text qw-sub-footer z-depth-4">
-				<div class="qw-padded">
-					<div class="row" style="visibility: visible; transform: translateY(50px) scale(0.95); opacity: 0; -webkit-transform: translateY(50px) scale(0.95); opacity: 0; ">
-						<div class="col l4 s12">
-							<h4></h4>
-						</div>
-						<div class="col l8 s12 qw-playericons">
-						</div>
-
-					</div>
-				</div>
-			</div>
+			<div class="container qw-darkbg-dark2 white-text qw-sub-footer z-depth-4"></div>
 
 
 
