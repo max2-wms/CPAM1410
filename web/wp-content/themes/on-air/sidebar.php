@@ -1,15 +1,17 @@
 <div id="sidebar" class="right">
 	<div>
 		<?php 
-			if( is_page(2) ){
+			if( !is_page(10) ){
 		?>
 			<div class="uppercase widget live_streaming webcam">
-				<h4 class="heading">
+				<h4 class="heading abs">
 					<!--
 					<a onclick="javascript: window.open('/ecoutez-en-direct/', '', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=550');" href="#"><?php //echo $lang['live streaming']; ?></a>
 					-->
 					<a href="<?php echo get_page_link(6550); ?>"><?php echo $lang['watch live']; ?></a>
 				</h4>
+
+				<img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/web_camera.png" />
 				
 				<!--
 				<p class="no_margins">
@@ -20,12 +22,14 @@
 			</div>
 
 			<div class="uppercase widget live_streaming">
-				<h4 class="heading">
+				<h4 class="heading abs">
 					<!--
 					<a onclick="javascript: window.open('/ecoutez-en-direct/', '', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=550');" href="#"><?php //echo $lang['live streaming']; ?></a>
 					-->
 					<a onclick="javascript: window.open('/ecoutez-en-direct/', '', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=550');" href="#"><?php echo $lang['live streaming']; ?></a>
 				</h4>
+
+				<img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/ecoutez_en_direct.png" />
 				
 				<!--
 				<p class="no_margins">
@@ -36,12 +40,14 @@
 			</div>
 
 			<div class="uppercase widget live_streaming tv">
-				<h4 class="heading">
+				<h4 class="heading abs">
 					<!--
 					<a onclick="javascript: window.open('/ecoutez-en-direct/', '', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=550');" href="#"><?php //echo $lang['live streaming']; ?></a>
 					-->
 					<a href="<?php echo get_page_link(9064); ?>"><?php echo $lang[ 'cpamtv' ]; ?></a>
 				</h4>
+
+				<img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/tv.png" />
 				
 				<!--
 				<p class="no_margins">
@@ -73,7 +79,7 @@
 			}  
 		?>
 		<?php 
-			if( is_page(2) || is_page(12) || is_page(217) ){
+			if( !is_page(10) ){
 		?>
 		<!--
 		<div class="widget top_des_tops">
@@ -95,7 +101,7 @@
 		
 		<div class="widget">
 			<a class="audio_now" target="_blank" href="http://icon.audionow.com/?e295baba-7d7d-11e3-85f8-000000000062&landing">
-			<img src="<?php echo bloginfo('stylesheet_directory'); ?>/images/banner.png" alt="AudioNow" />
+			<img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/banner.png" alt="AudioNow" />
 			</a>
 		</div>
 		
