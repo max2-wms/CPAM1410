@@ -1,7 +1,7 @@
 <div id="sidebar" class="right">
 	<div>
 		<?php 
-			if( !is_page(10) ){
+			if ( !is_page(10) ) {
 		?>
 			<div class="uppercase widget live_streaming webcam">
 				<h4 class="heading abs">
@@ -26,7 +26,7 @@
 					<!--
 					<a onclick="javascript: window.open('/ecoutez-en-direct/', '', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=550');" href="#"><?php //echo $lang['live streaming']; ?></a>
 					-->
-					<a onclick="javascript: window.open('/ecoutez-en-direct/', '', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=550');" href="#"><?php echo $lang['live streaming']; ?></a>
+					<a href="<?php echo get_page_link(628); ?>"><?php echo $lang['live streaming']; ?></a>
 				</h4>
 
 				<img src="<?php echo bloginfo('stylesheet_directory'); ?>/assets/images/ecoutez_en_direct.png" />
