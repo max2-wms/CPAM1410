@@ -79,7 +79,7 @@
 			}  
 		?>
 		<?php 
-			if( !is_page(10) ){
+			if ( !is_page(10) ) {
 		?>
 		<!--
 		<div class="widget top_des_tops">
@@ -107,46 +107,80 @@
 		
 		<div class="widget communiquez_avec_nous">
 			<h4 class="long">Communiquez avec nous</h4>
+
+			<section>
+
+				<label for="form_name">Nom et prénom</label><br />
+				<input name="form_name" id="form_name" type="text" >
+				
+				<br /><br />
+				
+				<label for="form_subject">Suject</label><br />
+				<select id="form_subject" name="form_subject">
+					<option value="rien">choisissez une émission</option>
+					<option value="général">général</option>
+					<?php
+						for( $i = 1; $i <= 31; $i++ ){
+					?>
+							<option value="<?php echo $lang['show' . $i ]; ?>"><?php echo $lang['show' . $i ]; ?></option>		
+					<?php
+						}
+					?>
+				</select>
+				
+				<br /><br />
+				
+				<label for="form_email">Courriel</label><br />
+				<input name="form_email" id="form_email" type="text" >
+				
+				<br /><br />
+				
+				<label for="form_msg">Message</label><br />
+				<textarea name="form_msg" id="form_msg"></textarea>
+				
+				<br /><br />
+				
+				<input id="submit" class="js-send_mail" name="submit" type="submit" value="Envoyer">
+				
+				<div class="success hidden">
+					merci
+				</div>
+
+			</section>
+
+		</div>
+
+		<div class="widget">
+			<h4 class="long">Nous Joindre</h4>
 			
-			<label for="form_name">Nom et prénom</label><br />
-			<input name="form_name" id="form_name" type="text" >
-			
-			<br /><br />
-			
-			<label for="form_subject">Suject</label><br />
-			<select id="form_subject" name="form_subject">
-				<option value="rien">choisissez une émission</option>
-				<option value="général">général</option>
-				<?php
-					for( $i = 1; $i <= 31; $i++ ){
-				?>
-						<option value="<?php echo $lang['show' . $i ]; ?>"><?php echo $lang['show' . $i ]; ?></option>		
-				<?php
-					}
-				?>
-			</select>
-			
-			<br /><br />
-			
-			<label for="form_email">Courriel</label><br />
-			<input name="form_email" id="form_email" type="text" >
-			
-			<br /><br />
-			
-			<label for="form_msg">Message</label><br />
-			<textarea name="form_msg" id="form_msg"></textarea>
-			
-			<br /><br />
-			
-			<input id="submit" class="js-send_mail" name="submit" type="submit" value="Envoyer">
-			
-			<div class="success">
-				merci
-			</div>
+			<section>
+				<h6 class="no_margins heading">» Téléphone</h6>
+
+				<p>
+					Sans frais: 1 (800) 790-1610<br>
+					Service d'Affaire: (514) 287-1288<br>
+					Info Studio: (514) 790-2726<br>
+				</p>
+
+				<h6 class="no_margins heading">» Fax</h6>
+
+				<p>(514) 287-3299</p>
+
+				<h6 class="no_margins heading">» Courriel</h6>
+				
+				<p>
+					<a id="email" href="mailto:info@cpam1410.com">info@cpam1410.com</a>
+				</p>
+				
+				<h6 class="no_margins heading">» addresse</h6>
+
+				<p>3390 blvd Crémazie est<br>Montréal (Québec) H2A 1A4</p>
+			</section>
+
 		</div>
 		
 		<?php 
-				dynamic_sidebar(); 
+				// dynamic_sidebar(); 
 			}		
 		?>
 	</div>

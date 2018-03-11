@@ -15,8 +15,10 @@ Author URI: http://www.webmediasolutionz.com/
 }
 
 h3.page_title {
-    border-bottom: thin solid #CCC;
     margin-bottom: 40px;
+    text-align: center;
+    background-color: #0D4259;
+    color: #2591E0;
 }
 
 .h_line {
@@ -28,6 +30,10 @@ h3.page_title {
     margin-bottom: 10px;
     background-color: #CCC;
     border-radius: 10px;
+}
+
+.main-content .post {
+    background-color: #D6D1D0;
 }
 
 h5.heading {
@@ -172,9 +178,9 @@ a.maincolor-text:hover {
     border-color: #333333;
 }
 
-.accentcolor a {
+/* .accentcolor a {
     color: !important;
-}
+} */
 
 .accentcolor a:hover {
     color: #f2d337 !important;
@@ -189,10 +195,10 @@ a.accentcolor-text:hover {
     color: #f2d337 !important;
 }
 
-a.accentcolor,
+/* a.accentcolor,
 a.accentcolor:hover {
     color: !important;
-}
+} */
 
 .qw-fancyborder,
 blockquote {
@@ -346,7 +352,7 @@ ul.qw-smallmenu li {
 }
 
 .select-wrapper input.select-dropdown {
-    font-size: 2rem;
+    font-size: 1rem;
     text-align: center;
 }
 
@@ -431,7 +437,7 @@ nav a.button-collapse {
 }
 
 .select-wrapper input.select-dropdown {
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-align: center;
 }
 
@@ -442,7 +448,7 @@ nav a.button-collapse {
 }
 
 .dropdown-content li>span {
-    font-size: 1.6rem;
+    font-size: 1rem;
     color: #555555;
     display: block;
     padding: 1rem 1rem;
@@ -553,6 +559,47 @@ h1.qw-moduletitle {
 
 .abs {
 	position: absolute;
+}
+
+.widget h4.long {
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #0D4259;
+    color: #2591E0;
+}
+
+.widget section {
+    background-color: #D6D1D0;
+    padding: 15px;
+    font-size: 80%;
+}
+
+.widget input#submit {
+    width: 100%;
+    padding: 10px;
+    background-color: #0D4259;
+    color: #2591E0;
+    font-size: 20px;
+    border: 1px solid #2591E0;
+}
+
+.widget section h6.heading {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.widget section p {
+    line-height: 1.5em;
+}
+
+.hidden {
+    display: none;
+}
+
+.success {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
 }
 
 @media (max-width: 768px) {

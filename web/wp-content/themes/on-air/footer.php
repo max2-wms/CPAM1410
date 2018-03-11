@@ -111,7 +111,7 @@
 
 						<div class="row">
 							<div class="col l8 s12 qw-footertext">
-								© 2017 CPAM RADIO UNION.COM, TOUS DROITS RÉSERVÉS. </div>
+								© <span class="current-year">2017</span> CPAM RADIO UNION.COM, TOUS DROITS RÉSERVÉS. </div>
 							<div class="col l4 s12">
 
 								<div class="qw-footersocial">
@@ -162,6 +162,24 @@
 			if (threeSixtyPlayer.config.useEQData) { soundManager.flash9Options.useEQData = true; }
 			if (threeSixtyPlayer.config.usePeakData) { soundManager.flash9Options.usePeakData = true; }
 			if (threeSixtyPlayer.config.useWaveformData || threeSixtyPlayer.flash9Options.useEQData || threeSixtyPlayer.flash9Options.usePeakData) { soundManager.preferFlash = true; }
+
+			$(document).ready(function(){
+				var submitBtn = $("#submit"),
+					successMsg = $(".success"),
+					displayTime = 5000,
+					displayedCurrentYear = $(".current-year"),
+					currentYear = (new Date()).getFullYear();
+
+				submitBtn.click(function(){
+					successMsg.removeClass("hidden");
+
+					setTimeout(() => {
+						successMsg.addClass("hidden");
+					}, displayTime);
+				});
+
+				displayedCurrentYear.text(currentYear);
+			});
 		</script>
 
 		<div class="hiddendiv common"></div>
