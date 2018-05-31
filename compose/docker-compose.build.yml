@@ -23,7 +23,7 @@ services:
     depends_on:
       - db
     image: max2wms/cpam1410
-    build: ./CPAM1410
+    build: ..
     restart: always
     environment:
       WORDPRESS_DB_HOST: db:3306
