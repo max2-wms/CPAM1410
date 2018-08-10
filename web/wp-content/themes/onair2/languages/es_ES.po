@@ -1,0 +1,2463 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: OnAir2\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-06-11 08:45+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: QantumThemes\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:31
+msgid "OOOOPS! Something went wrong..."
+msgstr "Ups! Algo salió mal…"
+
+#: 404.php:34
+msgid "The page you are looking for is not here anymore."
+msgstr "La página que estás buscando no existe"
+
+#: 404.php:44
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Buscar"
+
+#: 404.php:47 phpincludes/part-searchbar.php:19 search.php:45
+msgid "Search"
+msgstr "Buscar"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugins: %s"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Actualizando Plugins: %s"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente plugin necesita ser actualizado a la última versión para máxima "
+"compatibilidad con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes plugins necesitan ser actualizados a la última versión para "
+"máxima compatibilidad con este tema: %1$s."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin requerido está inactivo: %1$s."
+msgstr[1] "Los siguientes plugins requeridos están inactivos: %1$s."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] ""
+"Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Instalando plugin"
+msgstr[1] "Instalando plugins"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Actualizando plugin"
+msgstr[1] "Actualizando plugins"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Activando plugin"
+msgstr[1] "Activando plugins"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Regresar al instalador de los plugins requeridos"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:393
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:894
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2618
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3667
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:394
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3246
+msgid "Plugin activated successfully."
+msgstr "Plugin activado satisfactoriamente"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:395
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3039
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se activó correctamente"
+msgstr[1] "Los siguientes plugins se activaron correctamente"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activado."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin no activado. Se necesita una versión superior de %s para este tema. "
+"Por favor, actualice el plugin."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Hay uno o más plugins queridos o recomendados para instalar, actualizar o "
+"activar."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Por favor, ponte en contacto con el administrador de este sitio en busca de "
+"ayuda."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:610
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Este plugin necesita ser actualizado para que sea compatible con tu tema."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:704
+msgid "Set the parent_slug config variable instead."
+msgstr "Establecer la variable de configuración parent_slug."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:1001
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El paquete remoto del plugin no contiene una carpeta con el nombre adecuado "
+"y el renombrado no ha funcionado."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:1001
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:1004
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Por favor, ponte en contacto con el autor del plugin y solicita que "
+"empaqueten el plugin siguiendo las practicas de WordPress."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:1004
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El paquete remoto del plugin está compuesto de más de un archivo, pero los "
+"archivos no están agrupados en una carpeta."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:1188
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3035
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2049
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Requerido"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "Repositorio WordPress"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Fuente Externa"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Activo"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Actualización Requerida no Disponible"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Requiere Actualización"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Fuente"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2634
+#: ttgcore-setup/custom-types/member/member-type.php:44
+msgid "Type"
+msgstr "Tipo"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Versión"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Estado"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2771
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2804
+msgid "Install"
+msgstr "Instalar"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2810
+msgid "Update"
+msgstr "Actualizar"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2813
+msgid "Activate"
+msgstr "Activar"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"No se han seleccionado plugins para ser instalados. No se realizará ninguna "
+"acción."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2846
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"No se han seleccionado plugins para ser actualizados. No se realizará "
+"ninguna acción."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2889
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para ser actualizados en este momento."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2995
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"No se han seleccionado plugins para ser activados. No se realizará ninguna "
+"acción."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3021
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para ser activados en este momento."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3245
+msgid "Plugin activation failed."
+msgstr "La activación del plugin falló"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3585
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Se produjo un error durante la instalación %1$s: <strong>%2$s</strong>."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3590
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3594
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación se está iniciando. Este proceso puede "
+"tardar un tiempo en algunos equipos, así que por favor sea paciente."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3596
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3604
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3596
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3604
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3597
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando Plugin %1$s (%2$d/%3$d)"
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3602
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está iniciando. Este proceso puede tardar un "
+"tiempo en algunos equipos, así que por favor sea paciente."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3605
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: archive-chart.php:69 archive-chart.php:81 archive-event.php:80
+#: archive-event.php:92 archive-members.php:71 archive-members.php:83
+#: archive-no-sidebar.php:72 archive-podcast.php:72 archive-podcast.php:82
+#: archive-qtvideo.php:70 archive-qtvideo.php:82 archive-shows.php:69
+#: archive-shows.php:81 archive.php:82 archive.php:94 index.php:51
+msgid "Sorry, nothing here"
+msgstr "Lo sentimos, no se ha encontrado nada!"
+
+#: comments.php:20
+msgid "Reader's opinions"
+msgstr "Opiniones"
+
+#: comments.php:27 comments.php:47
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:28 comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios Antiguos"
+
+#: comments.php:29 comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios Nuevos &rarr;"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:67
+msgid "Required fields are marked *"
+msgstr "Los campos obligatorios están marcados con *"
+
+#: comments.php:72
+msgid "Leave a Reply"
+msgstr "Deja un comentario"
+
+#: comments.php:73
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Responder a %s"
+
+#: comments.php:75
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: comments.php:77
+msgid "Comment*"
+msgstr "Comentario*"
+
+#: comments.php:80
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Debes <a href=“%s”>acceder</a> para escribir un comentario."
+
+#: comments.php:85
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Entraste como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=“Salir de "
+"esta cuenta“>¿Salir?</a>"
+
+#: comments.php:92
+msgid "Your email address will not be published. "
+msgstr "Tu dirección de correo electrónico no será publicada."
+
+#: comments.php:96
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:97
+msgid "Email"
+msgstr "Emal"
+
+#: comments.php:98 single-event.php:75
+msgid "Website"
+msgstr "Web"
+
+#: functions.php:130
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:133
+msgid "Secondary Menu"
+msgstr "Menú Secundario"
+
+#: functions.php:136
+msgid "Footer Menu"
+msgstr "Menú Pie de Pagina"
+
+#: functions.php:246
+msgid "Right Sidebar"
+msgstr "Sidebar Derecho"
+
+#: functions.php:256
+msgid "Footer Sidebar"
+msgstr "Sidebar Footer"
+
+#: functions.php:339
+msgid "Prev"
+msgstr "Anterior"
+
+#: functions.php:344
+msgid "Next"
+msgstr "Siguiente"
+
+#: functions.php:490
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:518
+#, php-format
+msgid "%s &nbsp; On &nbsp;"
+msgstr "%s &nbsp; / &nbsp;"
+
+#: functions.php:520
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s, (%2$s)"
+
+#: functions.php:526
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación"
+
+#: functions.php:707
+msgid "This post is password protected. Please insert the password to proceed"
+msgstr ""
+"Esta publicación está protegida con contraseña. Inserte la contraseña y "
+"proceda."
+
+#: functions.php:708
+msgid "Password:"
+msgstr "Contraseña"
+
+#: functions.php:709
+msgid "Submit"
+msgstr "Enviar"
+
+#: functions.php:760 functions.php:770
+msgid "Qantumthemes Design Options"
+msgstr "Opciones de Diseño Qantumthemes"
+
+#: functions.php:762
+msgid "Negative colors"
+msgstr "Colores Negativos"
+
+#: functions.php:764
+msgid "Captions and texts uses negative colors"
+msgstr "Captions y textos usan colores negativos"
+
+#: functions.php:772
+msgid "Add container"
+msgstr "Add container"
+
+#: functions.php:774
+msgid "Add a container box to the content to limit width"
+msgstr "Add a container box to the content to limit width"
+
+#: page-contacts.php:32
+msgid "Please activate QT Contactform plugin to use this function"
+msgstr ""
+
+#: phpincludes/footerwidgets.php:31 phpincludes/menu.php:50
+#: phpincludes/menu.php:137
+msgid "Home"
+msgstr "Inicio"
+
+#: phpincludes/footerwidgets.php:54
+msgid "Featured image"
+msgstr ""
+
+#: phpincludes/menu.php:96 phpincludes/menu.php:187
+msgid "Music Player"
+msgstr ""
+
+#: phpincludes/menu.php:97
+msgid "Popup"
+msgstr ""
+
+#: phpincludes/menu.php:109 ttgcore-setup/custom-types/chart/chart-type.php:168
+msgid "Listen"
+msgstr "En Vivo"
+
+#: phpincludes/menu.php:113
+msgid "Pause"
+msgstr "Pausa"
+
+#: phpincludes/menu.php:113
+msgid "Resume"
+msgstr "Reanudar"
+
+#: phpincludes/part-archivetitle.php:15 search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Buscar resultados para: %s"
+
+#: phpincludes/part-archivetitle.php:19
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: phpincludes/part-archivetitle.php:21
+#, php-format
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: phpincludes/part-archivetitle.php:22
+#, php-format
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: phpincludes/part-archivetitle.php:23
+#, php-format
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: phpincludes/part-archivetitle.php:24
+msgid "Asides"
+msgstr "Asides"
+
+#: phpincludes/part-archivetitle.php:25
+msgid "Images"
+msgstr "Imágenes"
+
+#: phpincludes/part-archivetitle.php:26
+msgid "Videos"
+msgstr "Vídeos"
+
+#: phpincludes/part-archivetitle.php:27
+msgid "Quotes"
+msgstr "Citas"
+
+#: phpincludes/part-archivetitle.php:28
+msgid "Links"
+msgstr "Enlaces"
+
+#: phpincludes/part-archivetitle.php:29
+msgid "Galleries"
+msgstr "Galerías"
+
+#: phpincludes/part-archivetitle.php:30
+msgid "Sounds"
+msgstr "Sonidos"
+
+#: phpincludes/part-archivetitle.php:42
+#: ttgcore-setup/custom-types/shows/shows-type.php:7
+#: ttgcore-setup/custom-types/shows/shows-type.php:8
+#: ttgcore-setup/custom-types/shows/shows-type.php:18
+msgid "Shows"
+msgstr "Programas"
+
+#: phpincludes/part-archivetitle.php:50 single-shows.php:125
+msgid "charts"
+msgstr "listas"
+
+#: phpincludes/part-archivetitle.php:57
+msgid "videos"
+msgstr "videos"
+
+#: phpincludes/part-archivetitle.php:65
+msgid "Team Members"
+msgstr "Miembros Equipo"
+
+#: phpincludes/part-archivetitle.php:74
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:7
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:8
+msgid "Podcast"
+msgstr "Podcast"
+
+#: phpincludes/part-archivetitle.php:83
+#: ttgcore-setup/custom-types/events/events-type.php:17
+msgid "Events"
+msgstr "Eventos"
+
+#: phpincludes/part-archivetitle.php:86
+msgid "Blog"
+msgstr "Blog"
+
+#: phpincludes/part-channels-list.php:76
+msgid "logo"
+msgstr "logo"
+
+#: phpincludes/part-header-caption-archive.php:23
+msgid "Page: "
+msgstr "Página: "
+
+#: phpincludes/part-header-caption-chart.php:24
+msgid "Created on "
+msgstr "Creado el "
+
+#: phpincludes/part-header-caption-event.php:39
+#: ttgcore-setup/short/short-eventfeatured.php:94
+msgid "Days"
+msgstr "Días"
+
+#: phpincludes/part-header-caption-event.php:39
+#: ttgcore-setup/short/short-eventfeatured.php:94
+msgid "Hours"
+msgstr "Horas"
+
+#: phpincludes/part-header-caption-event.php:39
+#: ttgcore-setup/short/short-eventfeatured.php:94
+msgid "Minutes"
+msgstr "Minutos"
+
+#: phpincludes/part-header-caption-post.php:25
+#: phpincludes/part-header-caption.php:18
+msgid "Written by "
+msgstr "Escrito por "
+
+#: phpincludes/part-header-caption-post.php:27
+#: phpincludes/part-header-caption.php:20
+msgid " on "
+msgstr " el "
+
+#: phpincludes/part-item-metas.php:16 phpincludes/part-post-author.php:19
+#: phpincludes/part-post-author.php:24
+msgid "Author"
+msgstr "Autor"
+
+#: phpincludes/part-next-post.php:16
+msgid "Next post"
+msgstr "Post Siguiente"
+
+#: phpincludes/part-next-post.php:31 phpincludes/part-prev-post.php:31
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: phpincludes/part-pagination.php:12
+msgid "Pages"
+msgstr "Páginas"
+
+#: phpincludes/part-playercontainer.php:89
+msgid "[There are no radio stations in the database]"
+msgstr "[No hay estaciones de radio en la base de datos]"
+
+#: phpincludes/part-post-author.php:28
+msgid "Author's archive"
+msgstr "Archivos del autor"
+
+#: phpincludes/part-prev-post.php:16
+msgid "Previous post"
+msgstr "Post Anterior"
+
+#: phpincludes/part-related-post.php:60
+msgid "Related posts"
+msgstr "Post relacionados"
+
+#: phpincludes/part-related-show.php:59
+msgid "Related shows"
+msgstr "Programas relacionados"
+
+#: phpincludes/part-related.php:71
+msgid "You may also like"
+msgstr "También te puede gustar"
+
+#: phpincludes/part-searchbar.php:16 search.php:42 searchform.php:2
+msgctxt "placeholder"
+msgid "Type and press enter &hellip;"
+msgstr "Escribe y presiona enter &hellip;"
+
+#: phpincludes/part-show-schedule-day.php:112
+msgid "Learn more"
+msgstr "Ver Más"
+
+#: phpincludes/part-show-schedule-day.php:125
+#: ttgcore-setup/short/short-onair.php:165
+#: ttgcore-setup/short/short-showslider.php:164
+#: ttgcore-setup/short/short-upcoming-shows-carousel.php:169
+msgid "Sorry, there are no shows scheduled on this day"
+msgstr "Disculpas, no hay programas este día"
+
+#: phpincludes/part-show-schedule.php:118
+msgid "Choose a day"
+msgstr "Escoge un día"
+
+#: phpincludes/part-show-single-table.php:18
+msgid "Scheduled on"
+msgstr "Programación"
+
+#: phpincludes/sharepage.php:13 phpincludes/sharepage.php:16
+#: phpincludes/sharepage.php:21 phpincludes/sharepage.php:26
+#: phpincludes/sharepage.php:31
+msgid "Share"
+msgstr "Compartir"
+
+#: phpincludes/sharepage.php:16
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: phpincludes/sharepage.php:21
+msgid "Share on Twitter"
+msgstr "Compartir en Twitter"
+
+#: phpincludes/sharepage.php:26
+msgid "Share on Google+"
+msgstr "Compartir en Google+"
+
+#: phpincludes/sharepage.php:31
+msgid "Share on Pinterest"
+msgstr "Compartir en Pinterest"
+
+#: phpincludes/template-tags.php:40
+msgctxt "Previous post link"
+msgid "<span class=\"qticon-arrow-left\"></span>"
+msgstr "<span class=\"qticon-arrow-left\"></span>"
+
+#: phpincludes/template-tags.php:41
+msgctxt "Next post link"
+msgid "<span class=\"qticon-arrow-right\"></span>"
+msgstr "<span class=\"qticon-arrow-right\"></span>"
+
+#: phpincludes/template-tags.php:46
+msgid "<span class=\"qticon-arrow-left\"></span> Older posts"
+msgstr "<span class=\"qticon-arrow-left\"></span> Posts anteriores"
+
+#: phpincludes/template-tags.php:50
+msgid "Newer posts <span class=\"qticon-arrow-right\"></span>"
+msgstr "Posts Nuevos <span class=“qticon-arrow-right”></span>"
+
+#: search.php:30
+msgid "Total results:"
+msgstr "Resultados totales:"
+
+#: search.php:34
+msgid "Showing page: "
+msgstr "Mostrando página: "
+
+#: search.php:34
+msgid "of"
+msgstr "de"
+
+#: search.php:64
+msgid "Sorry, no results matching your query."
+msgstr "Lo sentimos, no hay resultados para tu búsqueda."
+
+#: single-event.php:56
+msgid "Event info"
+msgstr "Información del Evento"
+
+#: single-event.php:69 ttgcore-setup/custom-types/events/events-type.php:77
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:84
+msgid "Date"
+msgstr "﻿Fecha"
+
+#: single-event.php:71
+msgid "Time"
+msgstr ""
+
+#: single-event.php:72 single-event.php:103
+msgid "Location"
+msgstr "Ubicación"
+
+#: single-event.php:73
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:75
+msgid "Address"
+msgstr "Dirección"
+
+#: single-event.php:74
+msgid "Phone"
+msgstr "Teléfono"
+
+#: single-event.php:76 ttgcore-setup/custom-types/events/events-type.php:6
+#: ttgcore-setup/custom-types/events/events-type.php:7
+msgid "Event"
+msgstr "Evento"
+
+#: single-event.php:89
+msgid "Details"
+msgstr "Detalles"
+
+#: single-event.php:124
+msgid "Buy tickets"
+msgstr "Comprar Tickets"
+
+#: single-shows.php:43
+msgid "Tagged as:"
+msgstr "Etiquetado como:"
+
+#: single-shows.php:55
+msgid "Read more"
+msgstr "Leer más"
+
+#: single-shows.php:76
+msgid "Podcast of previous episodes"
+msgstr "Podcast de transmisiones anteriores"
+
+#: single-shows.php:101
+msgid "Related news"
+msgstr "Noticias relacionadas"
+
+#: single.php:32
+msgid "Tagged as "
+msgstr "Etiquetado como:"
+
+#: single.php:51
+msgid "Continue reading"
+msgstr "Continuar leyendo"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:6
+#: ttgcore-setup/custom-types/chart/chart-type.php:12
+#: ttgcore-setup/custom-types/chart/chart-type.php:14
+#: ttgcore-setup/custom-types/chart/chart-type.php:15
+#: ttgcore-setup/custom-types/chart/chart-type.php:16
+#: ttgcore-setup/custom-types/chart/chart-type.php:18
+msgid "Charts"
+msgstr "Listas"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:7
+msgid "Chart"
+msgstr "Lista"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:9
+#: ttgcore-setup/custom-types/chart/chart-type.php:10
+#: ttgcore-setup/custom-types/chart/chart-type.php:11
+#: ttgcore-setup/custom-types/chart/chart-type.php:13
+msgid "chart"
+msgstr "lista"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:45
+#: ttgcore-setup/custom-types/chart/chart-type.php:59
+msgid "Chart categories"
+msgstr "Categorías de Lista"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:46
+msgid "Category"
+msgstr "Categoría"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:47
+msgid "Search by category"
+msgstr "Buscar por categoría"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:48
+msgid "Popular categorys"
+msgstr "Categorías populares"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:49
+msgid "All charts"
+msgstr "Todas las listas"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:52
+msgid "Edit category"
+msgstr "Editar Categoría"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:53
+msgid "Update category"
+msgstr "Actualizar categoría"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:54
+msgid "Add New category"
+msgstr "Añadir nueva categoría"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:55
+msgid "New category Name"
+msgstr "Nombre de la nueva categoría"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:56
+msgid "Separate categorys with commas"
+msgstr "Separa las categorías con comas"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:57
+msgid "Add or remove categorys"
+msgstr "Añadir o quitar categorías"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:58
+msgid "Choose from the most used categorys"
+msgstr "Elige entre las categorías más utilizadas"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:159
+msgid "Go to shop"
+msgstr "Ir a la tienda"
+
+#: ttgcore-setup/custom-types/chart/chart-type.php:178
+msgid "Cover"
+msgstr "Cover"
+
+#: ttgcore-setup/custom-types/events/events-type.php:8
+#: ttgcore-setup/custom-types/member/member-type.php:8
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:9
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:8
+#: ttgcore-setup/custom-types/shows/shows-type.php:9
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: ttgcore-setup/custom-types/events/events-type.php:9
+msgid "Add new event"
+msgstr "Agregar Nuevo Evento"
+
+#: ttgcore-setup/custom-types/events/events-type.php:10
+msgid "Edit event"
+msgstr "Editar Evento"
+
+#: ttgcore-setup/custom-types/events/events-type.php:11
+msgid "New event"
+msgstr "Nuevo Evento"
+
+#: ttgcore-setup/custom-types/events/events-type.php:12
+#: ttgcore-setup/custom-types/events/events-type.php:47
+msgid "All events"
+msgstr "Todos los Eventos"
+
+#: ttgcore-setup/custom-types/events/events-type.php:13
+msgid "View event"
+msgstr "Ver Evento"
+
+#: ttgcore-setup/custom-types/events/events-type.php:14
+msgid "Search event"
+msgstr "Buscar Evento"
+
+#: ttgcore-setup/custom-types/events/events-type.php:15
+msgid "No events found"
+msgstr "No se encontraron eventos"
+
+#: ttgcore-setup/custom-types/events/events-type.php:16
+msgid "No events found in trash"
+msgstr "No se encontraron eventos en la papelera"
+
+#: ttgcore-setup/custom-types/events/events-type.php:43
+msgid "Event type"
+msgstr "Tipo de Evento"
+
+#: ttgcore-setup/custom-types/events/events-type.php:44
+#: ttgcore-setup/custom-types/member/member-type.php:43
+msgid "Types"
+msgstr "Tipos"
+
+#: ttgcore-setup/custom-types/events/events-type.php:45
+#: ttgcore-setup/custom-types/shows/shows-type.php:47
+msgid "Search by genre"
+msgstr "Buscar por Género"
+
+#: ttgcore-setup/custom-types/events/events-type.php:46
+#: ttgcore-setup/custom-types/shows/shows-type.php:48
+msgid "Popular genres"
+msgstr "Géneros Populares"
+
+#: ttgcore-setup/custom-types/events/events-type.php:50
+#: ttgcore-setup/custom-types/member/member-type.php:50
+msgid "Edit Type"
+msgstr "Editar tipo"
+
+#: ttgcore-setup/custom-types/events/events-type.php:51
+#: ttgcore-setup/custom-types/member/member-type.php:51
+msgid "Update Type"
+msgstr "Actualizar Tipo"
+
+#: ttgcore-setup/custom-types/events/events-type.php:52
+#: ttgcore-setup/custom-types/member/member-type.php:52
+msgid "Add New Type"
+msgstr "Añadir Nuevo Tipo"
+
+#: ttgcore-setup/custom-types/events/events-type.php:53
+#: ttgcore-setup/custom-types/member/member-type.php:53
+msgid "New Type Name"
+msgstr "Nombre del Nuevo Tipo"
+
+#: ttgcore-setup/custom-types/events/events-type.php:54
+#: ttgcore-setup/custom-types/member/member-type.php:54
+msgid "Separate Types with commas"
+msgstr "Separa los tipos con comas"
+
+#: ttgcore-setup/custom-types/events/events-type.php:55
+#: ttgcore-setup/custom-types/member/member-type.php:55
+msgid "Add or remove Types"
+msgstr "Añadir o quitar Tipos"
+
+#: ttgcore-setup/custom-types/events/events-type.php:56
+#: ttgcore-setup/custom-types/member/member-type.php:56
+msgid "Choose from the most used Types"
+msgstr "Elige entre los tipos más utilizados"
+
+#: ttgcore-setup/custom-types/events/events-type.php:57
+msgid "Event types"
+msgstr "Tipo de Evento"
+
+#: ttgcore-setup/custom-types/events/events-type.php:82
+msgid "Time (24h format)"
+msgstr "Tiempo (formato 24h)"
+
+#: ttgcore-setup/custom-types/events/events-type.php:87
+msgid "Facebook Event Link"
+msgstr "Url Evento en Facebook"
+
+#: ttgcore-setup/custom-types/events/events-type.php:92
+msgid "Ticket Buy Links"
+msgstr "Link Comprar Tickets"
+
+#: ttgcore-setup/custom-types/events/events-type.php:93
+msgid "Street"
+msgstr "Dirección"
+
+#: ttgcore-setup/custom-types/events/events-type.php:103
+msgid "Ticket buy text"
+msgstr "Texto comprar Tickets"
+
+#: ttgcore-setup/custom-types/events/events-type.php:109
+msgid "Ticket buy link "
+msgstr "Link comprar Tickets "
+
+#: ttgcore-setup/custom-types/events/events-type.php:117
+msgid "Event details"
+msgstr "Detalles de evento"
+
+#: ttgcore-setup/custom-types/member/member-type.php:6
+#: ttgcore-setup/custom-types/member/member-type.php:7
+#: ttgcore-setup/custom-types/member/member-type.php:17
+msgid "Team"
+msgstr "Equipo"
+
+#: ttgcore-setup/custom-types/member/member-type.php:9
+msgid "Add new team member"
+msgstr "Agregar nuevo miembro del equipo"
+
+#: ttgcore-setup/custom-types/member/member-type.php:10
+msgid "Edit team member"
+msgstr "Editar miembro del equipo"
+
+#: ttgcore-setup/custom-types/member/member-type.php:11
+msgid "New team member"
+msgstr "Nuevo miembro del equipo"
+
+#: ttgcore-setup/custom-types/member/member-type.php:12
+msgid "All team members"
+msgstr "Todos los miembros del equipo"
+
+#: ttgcore-setup/custom-types/member/member-type.php:13
+msgid "View team member"
+msgstr "Ver miembro del equipo"
+
+#: ttgcore-setup/custom-types/member/member-type.php:14
+msgid "Search team member"
+msgstr "Buscar miembro del equipo"
+
+#: ttgcore-setup/custom-types/member/member-type.php:15
+msgid "No team member found"
+msgstr "Ningún miembro del equipo encontrado"
+
+#: ttgcore-setup/custom-types/member/member-type.php:16
+msgid "No team member found in trash"
+msgstr "Ningún miembro del equipo encontrado en la papelera"
+
+#: ttgcore-setup/custom-types/member/member-type.php:45
+msgid "Search by Type"
+msgstr "Buscar por Tipo"
+
+#: ttgcore-setup/custom-types/member/member-type.php:46
+msgid "Popular Types"
+msgstr "Tipos Populares"
+
+#: ttgcore-setup/custom-types/member/member-type.php:47
+msgid "All members"
+msgstr "Todos los miembros"
+
+#: ttgcore-setup/custom-types/member/member-type.php:57
+msgid "Member types"
+msgstr "Tipos de Miembro"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:12
+msgid "Hide header"
+msgstr "Esconder Header"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:13
+msgid "Header with featured image and title will be hidden"
+msgstr "El header con la imagen principal y titulo serán escondidos"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:18
+msgid "Add footer sponsors"
+msgstr "Añadir logos en el footer"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:23
+msgid "Form title"
+msgstr "Título del formulario"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:29
+msgid "Contacts title"
+msgstr "Titulo de contactos"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:35
+msgid "Map title"
+msgstr "Título de Mapas"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:41
+msgid "Contacts recipient email address"
+msgstr "Email receptor"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:42
+msgid ""
+"Email address where you want to receive the messages. No form shown if blank."
+msgstr ""
+"El email donde recibirás los mensajes. No se muestra en el form si está en "
+"blanco."
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:48
+msgid "Message subject"
+msgstr "Asunto del mensaje"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:49
+msgid "Subject of the email you will receive from the contact form"
+msgstr "El asunto que se recibirá del formulario de contacto"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:55
+msgid "Privacy terms page link"
+msgstr "Link de Términos y Condiciones"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:56
+msgid "URL of page with the privacy terms"
+msgstr "Link de la página de Términos y Condiciones"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:63
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:69
+msgid "Email address"
+msgstr "Correo electrónico"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:81
+msgid "Address line 2"
+msgstr "Dirección línea 2"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:87
+msgid "Google maps embed URL"
+msgstr "Google maps embed URL"
+
+#: ttgcore-setup/custom-types/pages-special/pages-special.php:88
+msgid "ATTENTION, NOT THE IFRAME TAG, ONLY THE URL! More info at"
+msgstr "ATENCIÓN, NO USE EL IFRAME TAG, SOLO LA URL! Más info en"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:10
+msgid "Add new podcast"
+msgstr "Agregar nuevo Podcast"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:11
+msgid "Edit podcast"
+msgstr "Editar Podcast"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:12
+msgid "New podcast"
+msgstr "Nuevo Podcast"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:13
+msgid "All podcasts"
+msgstr "Todos los Podcast"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:14
+msgid "View podcast"
+msgstr "Ver Podcast"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:15
+msgid "Search podcast"
+msgstr "Buscar Podcast"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:16
+msgid "No podcasts found"
+msgstr "Ningún Podcast encontrado"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:17
+msgid "No podcasts found in trash"
+msgstr "Nigún Podcast encontrado en la papelera"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:18
+msgid "Podcasts"
+msgstr "Podcasts"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:45
+msgid "Podcast filters"
+msgstr "Filtros Podcast"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:46
+msgid "Filter"
+msgstr "Filtro"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:47
+msgid "Search by filter"
+msgstr "Buscar por filtro"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:48
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:49
+msgid "Popular filters"
+msgstr "Filtros Populares"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:49
+msgid "All Podcasts"
+msgstr "Todos los Podcast"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:52
+msgid "Edit Filter"
+msgstr "Editar Filtro"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:53
+msgid "Update Filter"
+msgstr "Actualizar Filtro"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:54
+msgid "Add New Filter"
+msgstr "Añadir nuevo Filtro"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:55
+msgid "New Filter Name"
+msgstr "Nombre del Nuevo Filtro"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:56
+msgid "Separate Filters with commas"
+msgstr "Separa los filtros con comas"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:57
+msgid "Add or remove Filters"
+msgstr "Añadir o quitar filtros"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:58
+msgid "Choose from the most used Filters"
+msgstr "Elige entre los filtros más utilizados"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:59
+msgid "Filters"
+msgstr "Filtros"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:79
+msgid "Artist Name"
+msgstr "Nombre del Artista"
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:89
+msgid "Mixcloud, Soundcloud or MP3 url."
+msgstr "Mixcloud, Soundcloud o url MP3."
+
+#: ttgcore-setup/custom-types/podcast/podcast-type.php:95
+msgid "Podcast details"
+msgstr "Detalles del Podcast"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:9
+#: ttgcore-setup/custom-types/radio/radio-type.php:21
+msgid "Radio channels"
+msgstr "Canales de Radio"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:10
+msgid "Radio channel"
+msgstr "Canal de Radio"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:11
+msgid "Add new channel"
+msgstr "Añadir nuevo canal"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:12
+msgid "Add new radio channel"
+msgstr "Añadir nuevo canal de Radio"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:13
+msgid "Edit radio channel"
+msgstr "Editar canal de radio"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:14
+msgid "New radio channel"
+msgstr "Nuevo canal de Radio"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:15
+msgid "All radio channels"
+msgstr "Todos los canales"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:16
+msgid "View radio channel"
+msgstr "Ver canal de radio"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:17
+msgid "Search radio channels"
+msgstr "Buscar Canales de Radio"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:18
+msgid "No radio channels found"
+msgstr "Ningún canal encontrado"
+
+#: ttgcore-setup/custom-types/radio/radio-type.php:19
+msgid "No radio channels found in Trash"
+msgstr "Ningún canal encontrado en la papelera"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:6
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:7
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:17
+msgid "Schedule"
+msgstr "Programar"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:9
+msgid "Add new schedule"
+msgstr "Agregar nuevo calendario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:10
+msgid "Edit schedule"
+msgstr "Editar calendario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:11
+msgid "New schedule"
+msgstr "Nuevo calendario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:12
+msgid "All schedules"
+msgstr "Todos los calendarios"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:13
+msgid "View schedule"
+msgstr "Ver calendario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:14
+msgid "Search schedule"
+msgstr "Buscar calendario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:15
+msgid "No schedule found"
+msgstr "No se ha encontrado ningún calendario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:16
+msgid "No schedule found in trash"
+msgstr "No se ha encontrado ningún calendario en la papelera"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:46
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:47
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:60
+msgid "Schedule filter"
+msgstr "Filtro de Horarios"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:48
+msgid "Search by schedule filter"
+msgstr "Buscar por Filtro de horario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:50
+msgid "All schedule filters"
+msgstr "Todos los filtros de horarios"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:53
+msgid "Edit schedule filter"
+msgstr "Editar Filtro de horario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:54
+msgid "Update schedule filter"
+msgstr "Actualizar Filtro de horario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:55
+msgid "Add schedule filter"
+msgstr "Añadir Filtro de horario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:56
+msgid "New schedule filter"
+msgstr "Nuevo Filtro de horario"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:57
+msgid "Separate schedule filters with comma"
+msgstr "Separa los filtros con comas"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:58
+msgid "Add or remove schedule filters"
+msgstr "Añadir o quitar filtros"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:59
+msgid "Choose from the most used schedule filters"
+msgstr "Elige entre los filtros más utilizados"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:96
+msgid "Monday"
+msgstr "Lunes"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:97
+msgid "Tuesday"
+msgstr "Martes"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:98
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:99
+msgid "Thursday"
+msgstr "Jueves"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:100
+msgid "Friday"
+msgstr "Viernes"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:101
+msgid "Saturday"
+msgstr "Sábado"
+
+#: ttgcore-setup/custom-types/schedule/schedule-type.php:102
+msgid "Sunday"
+msgstr "Domingo"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:10
+msgid "Add new show"
+msgstr "Agregar nuevo espectáculo"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:11
+msgid "Edit show"
+msgstr "Editar espectáculo"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:12
+msgid "New show"
+msgstr "Nuevo espectáculo"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:13
+#: ttgcore-setup/custom-types/shows/shows-type.php:49
+msgid "All shows"
+msgstr "Todos los espectáculo"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:14
+msgid "View show"
+msgstr "Ver espectáculo"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:15
+msgid "Search show"
+msgstr "Buscar un espectáculo"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:16
+msgid "No shows found"
+msgstr "No se han encontrado resultados"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:17
+msgid "No shows found in trash"
+msgstr "No se han encontrado resultados"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:45
+#: ttgcore-setup/custom-types/shows/shows-type.php:59
+msgid "Genres"
+msgstr "Géneros"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:46
+msgid "Genre"
+msgstr "Género"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:52
+msgid "Edit genre"
+msgstr "Editar Género"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:53
+msgid "Update genre"
+msgstr "Actualizar Género"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:54
+msgid "Add New genre"
+msgstr "Agregar nuevo Genero"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:55
+msgid "New genre Name"
+msgstr "Nombre del nuevo genero"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:56
+msgid "Separate genres with commas"
+msgstr "Separa los generos con comas"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:57
+msgid "Add or remove genres"
+msgstr "Añadir o quitar géneros"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:58
+msgid "Choose from the most used genres"
+msgstr "Elige entre los géneros más utilizados"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:83
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:84
+msgid "Used in parallax header"
+msgstr "Usado en parallax header"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:89
+msgid "Subtitle 2"
+msgstr "Subtítulo 2"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:90
+msgid "Used in the parallax header"
+msgstr "Usado en parallax header"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:95
+msgid "Short show description"
+msgstr "Descripción corta para mostrar"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:96
+msgid "Used in the schedule"
+msgstr "Usado en el horario"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:102
+msgid "Podcast archive"
+msgstr "Archivo de Podcast"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:103
+#: ttgcore-setup/custom-types/shows/shows-type.php:110
+#: ttgcore-setup/custom-types/shows/shows-type.php:117
+msgid "Choose a podcast category to display in the show page"
+msgstr ""
+"Escoger una categoría de podcast para mostrar en la página de programas"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:109
+msgid "News archive"
+msgstr "Archivos de noticias"
+
+#: ttgcore-setup/custom-types/shows/shows-type.php:116
+msgid "Charts archive"
+msgstr "Archivos de Listas"
+
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:6
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:7
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:18
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:9
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:10
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:11
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:13
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:14
+msgid "sponsor"
+msgstr "patrocinador"
+
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:12
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:15
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:16
+msgid "sponsors"
+msgstr "patrocinadores"
+
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:43
+msgid "Link url"
+msgstr "Link"
+
+#: ttgcore-setup/custom-types/sponsor/sponsor-type.php:49
+msgid "Sponsor details"
+msgstr "Detalles del patrocinador"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:13
+msgid "Error page background image"
+msgstr "Error page background image"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:15
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:36
+msgid "JPG min 1600x500px / max 250Kb"
+msgstr "JPG min 1600x500px / max 250Kb"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:26
+msgid "Logo header"
+msgstr "Logo header"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:28
+msgid "Max height: 68px"
+msgstr "Altura máxima: 68px"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:34
+msgid "Default header background image"
+msgstr "Default header background image"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:42
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:50
+msgid "Display \"listen\" button"
+msgstr "Mostrar botón “en vivo”"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:51
+msgid "Enable the player button to open the radio sidebar"
+msgstr "Habilitar el botón del reproductor para abrir el radio sidebar"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:60
+msgid "Display \"popup\" button"
+msgstr "Mostrar botón “popup”"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:61
+msgid ""
+"Requires to set a popup URL. Add a popup button to link any external page"
+msgstr ""
+"Requiere establecer una URL popup. Añadir un botón popup para vincular "
+"cualquier página externa"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:69
+msgid "Popup URL"
+msgstr "URL Popup"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:71
+msgid "Create a page using Popup template or link to any external URL"
+msgstr ""
+"Crear una página usando el popup template o un link para cualquier url "
+"externa"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:77
+msgid "Add \"search\" button"
+msgstr "Añadir botón “buscar”"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:78
+msgid "Display \"search\" button"
+msgstr "Mostrar botón “buscar”"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:89
+msgid "Time format for schedule"
+msgstr "Formato de tiempo de horario"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:94
+msgid "24h format"
+msgstr "Formato 24h"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:95
+msgid "12h format"
+msgstr "Formato 12h"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:102
+msgid "Autoplay"
+msgstr "Reproducción automática"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:103
+msgid ""
+"Attention: autoplay is a very bad usability choice, use the function at your "
+"own risk. It may severely annoy your visitors and make you loose audience."
+msgstr ""
+"Atención: el autoplay es una opción muy mala de la utilidad, utiliza la "
+"función en su propio riesgo. Puede molestar severamente a sus visitantes y "
+"hacer que pierda la audiencia."
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:108
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:123
+msgid "Disable"
+msgstr "Desactivar"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:109
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:124
+msgid "Enable"
+msgstr "Activar"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:116
+msgid "Player switch: works only with autoplay enabled."
+msgstr ""
+"Interruptor del reproductor: sólo funciona con la reproducción automática "
+"activada."
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:117
+msgid "Enable a quick play and pause switch submenu."
+msgstr "Activar un submenú de reproducción rápida y de pausa."
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:131
+msgid "Enable Now OnAir auto updater"
+msgstr "Activar actualizador automático “ahora al aire”"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:132
+msgid ""
+"Now on air shortcode and upcoming shows shortcode will update automatically "
+"every 120 seconds"
+msgstr ""
+"Now on air shortcode and upcoming shows shortcode will update automatically "
+"every 120 seconds"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:144
+msgid "Footer text"
+msgstr "Texto del footer"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:152
+msgid "Show footer widgets"
+msgstr "Mostrar widgets en el footer"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:160
+msgid "Footer widgets background image"
+msgstr "Imagen de fondo del footer"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:162
+msgid "JPG 1600x500px"
+msgstr "JPG 1600x500px"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:168
+msgid "Logo footer"
+msgstr "Logo footer"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:176
+msgid "Amazon"
+msgstr "Amazon"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:177
+msgid "Beatport"
+msgstr "Beatport"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:178
+msgid "Bebo"
+msgstr "Bebo"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:179
+msgid "Behance"
+msgstr "Behance"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:180
+msgid "Blogger"
+msgstr "Blogger"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:181
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:182
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:183
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:184
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:185
+msgid "Itunes"
+msgstr "Itunes"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:186
+msgid "Juno"
+msgstr "Juno"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:187
+msgid "Lastfm"
+msgstr "Lastfm"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:188
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:189
+msgid "Mixcloud"
+msgstr "Mixcloud"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:190
+msgid "Myspace"
+msgstr "Myspace"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:191
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:192
+msgid "Reverbnation"
+msgstr "Reverbnation"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:193
+msgid "Resident-advisor"
+msgstr "Resident-advisor"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:194
+msgid "RSS"
+msgstr "RSS"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:195
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:196
+msgid "Triplevision"
+msgstr "Triplevision"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:197
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:198
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:199
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:200
+msgid "Whatpeopleplay"
+msgstr "Whatpeopleplay"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:201
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:202
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:211
+msgid "Show past events"
+msgstr "Mostrar eventos pasados"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:213
+msgid "Based on the event date attribute"
+msgstr "Basado en el atributo de fecha del evento"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:217
+msgid "Yes: show past events"
+msgstr "Si: mostrar eventos pasados"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:218
+msgid "No: hide past events"
+msgstr "No: ocultar eventos pasados"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:227
+msgid "Enable debug settings"
+msgstr "Habilitar modo depuración"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:228
+msgid ""
+"Load separated JS instead of minified version and enable console output for "
+"javascript. Use in case of issues or custom theme versions"
+msgstr ""
+"Cargar separated JS en lugar de la versión minified y habilitar la salida de "
+"la consola para javascript. Usar en caso de problemas o versiones de temas "
+"personalizados"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:240
+msgid "Basic "
+msgstr "Básico "
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:259
+msgid "Bold texts "
+msgstr "Textos en Bold "
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:278
+msgid "Headings"
+msgstr "Encabezamientos"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:299
+msgid "Menu"
+msgstr "Menú"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:325
+msgid "Primary"
+msgstr "Primario"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:333
+msgid "Primary light"
+msgstr "Primario Claro"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:341
+msgid "Primary dark"
+msgstr "Primario Oscuro"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:349
+msgid "Accent"
+msgstr "Accent"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:357
+msgid "Accent hover"
+msgstr "Accent hover"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:365
+msgid "Secondary"
+msgstr "Secundario"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:373
+msgid "Secondary hover"
+msgstr "Secundario hover"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:381
+msgid "Page background"
+msgstr "Fondo de la página"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:389
+msgid "Paper background"
+msgstr "Paper background"
+
+#: ttgcore-setup/customizer/kirki-configuration/fields.php:397
+#: ttgcore-setup/short/short-captions.php:50
+#: ttgcore-setup/short/short-captions.php:103
+msgid "Text"
+msgstr "Texto"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:9
+msgid "Header"
+msgstr "Header"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:13
+msgid "Social networks"
+msgstr "Redes Sociales"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:15
+msgid "Social network profiles"
+msgstr "Perfiles redes sociales"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:18
+msgid "Footer Customization"
+msgstr "Personalización del Footer"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:20
+msgid "Footer text and functions"
+msgstr "Texto y funciones del Footer"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:23
+msgid "Radio settings"
+msgstr "Configuración de Radio"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:25
+msgid "Radio schedule and player settings"
+msgstr "Configuración horarios y reproductor"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:28
+msgid "Events settings"
+msgstr "Configuración de eventos"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:30
+msgid "Manage the way releases are displayed"
+msgstr "Administrar la forma en que se muestran las versiones"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:33
+msgid "Developer settings"
+msgstr "Ajustes de Desarrollador"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:35
+msgid "Extra options for developers"
+msgstr "Opciones extra para desarrolladores"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:39
+msgid "Typography"
+msgstr "Tipografía"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:41
+msgid "Customize font settings"
+msgstr "Personalizar configuración de fonts"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:45
+msgid "404 error page"
+msgstr "Error 404"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:50
+msgid "Colors customization"
+msgstr "Personalizar colores"
+
+#: ttgcore-setup/customizer/kirki-configuration/sections.php:52
+msgid "Colors of your website"
+msgstr "Colores del website"
+
+#: ttgcore-setup/short/short-appicons.php:55
+msgid "App Icons"
+msgstr "App Icons"
+
+#: ttgcore-setup/short/short-appicons.php:58
+msgid "Create links to external players"
+msgstr "Crear links para reproductores externos"
+
+#: ttgcore-setup/short/short-appicons.php:59
+#: ttgcore-setup/short/short-captions.php:45
+#: ttgcore-setup/short/short-captions.php:98
+#: ttgcore-setup/short/short-captions.php:155
+#: ttgcore-setup/short/short-chart.php:146
+#: ttgcore-setup/short/short-eventfeatured.php:137
+#: ttgcore-setup/short/short-onair.php:191
+#: ttgcore-setup/short/short-post-grid.php:115
+#: ttgcore-setup/short/short-post-hero-single.php:123
+#: ttgcore-setup/short/short-schedule.php:40
+#: ttgcore-setup/short/short-showslider.php:194
+#: ttgcore-setup/short/short-slideshow-carousel.php:157
+#: ttgcore-setup/short/short-slideshow-carousel.php:227
+#: ttgcore-setup/short/short-slideshow.php:113
+#: ttgcore-setup/short/short-upcoming-shows-carousel.php:195
+msgid "Theme shortcodes"
+msgstr "Theme shortcodes"
+
+#: ttgcore-setup/short/short-appicons.php:64
+msgid "Android"
+msgstr "Android"
+
+#: ttgcore-setup/short/short-appicons.php:70
+msgid "iPhone"
+msgstr "iPhone"
+
+#: ttgcore-setup/short/short-appicons.php:76
+msgid "Blackberry"
+msgstr "Blackberry"
+
+#: ttgcore-setup/short/short-appicons.php:82
+msgid "iTunes"
+msgstr "iTunes"
+
+#: ttgcore-setup/short/short-appicons.php:88
+msgid "Windows Phone"
+msgstr "Windows Phone"
+
+#: ttgcore-setup/short/short-appicons.php:94
+msgid "Media Player"
+msgstr "Media Player"
+
+#: ttgcore-setup/short/short-appicons.php:100
+msgid "Winamp"
+msgstr "Winamp"
+
+#: ttgcore-setup/short/short-captions.php:41
+msgid "Caption"
+msgstr "Caption"
+
+#: ttgcore-setup/short/short-captions.php:44
+msgid "Section caption"
+msgstr "Sección leyenda"
+
+#: ttgcore-setup/short/short-captions.php:56
+#: ttgcore-setup/short/short-captions.php:109
+msgid "Class"
+msgstr "Clase"
+
+#: ttgcore-setup/short/short-captions.php:94
+msgid "Caption small"
+msgstr "Leyenda pequeña"
+
+#: ttgcore-setup/short/short-captions.php:97
+msgid "Section caption small"
+msgstr "Sección leyenda pequeña"
+
+#: ttgcore-setup/short/short-captions.php:151
+#: ttgcore-setup/short/short-captions.php:154
+msgid "Spacer"
+msgstr "Espaciador"
+
+#: ttgcore-setup/short/short-captions.php:159
+msgid "Size"
+msgstr "Tamaño"
+
+#: ttgcore-setup/short/short-captions.php:162
+msgid "Empty spacer separator"
+msgstr "Separador vacío"
+
+#: ttgcore-setup/short/short-chart.php:119
+msgid "Full tracklist"
+msgstr "Lista de reproducción completa"
+
+#: ttgcore-setup/short/short-chart.php:142
+msgid "Chart tracks"
+msgstr "Canciones de lista"
+
+#: ttgcore-setup/short/short-chart.php:145
+msgid "Display the tracks of the latest chart or specify a chart by id."
+msgstr "Mostrar las canciones de la última lista o especificar un id de lista"
+
+#: ttgcore-setup/short/short-chart.php:150
+#: ttgcore-setup/short/short-eventfeatured.php:141
+#: ttgcore-setup/short/short-post-hero-single.php:127
+msgid "ID"
+msgstr "ID"
+
+#: ttgcore-setup/short/short-chart.php:151
+#: ttgcore-setup/short/short-chart.php:158
+msgid ""
+"Optional Chart ID, if not specified will always show the latest chart by "
+"menu order or publish date"
+msgstr ""
+"ID de lista opcional, si no se especifica se mostrará la última lista por "
+"orden de menú o fecha de publicación"
+
+#: ttgcore-setup/short/short-chart.php:157
+msgid "Number of tracks (default: 100)"
+msgstr "Número de canciones (defecto: 100)"
+
+#: ttgcore-setup/short/short-eventfeatured.php:94
+msgid "Seconds"
+msgstr "Segundos"
+
+#: ttgcore-setup/short/short-eventfeatured.php:98
+msgid "Discover more"
+msgstr "Ver Más"
+
+#: ttgcore-setup/short/short-eventfeatured.php:133
+msgid "Featured event"
+msgstr "Evento relacionado"
+
+#: ttgcore-setup/short/short-eventfeatured.php:136
+msgid "Display an upcoming event section"
+msgstr "Display an upcoming event section"
+
+#: ttgcore-setup/short/short-eventfeatured.php:142
+#: ttgcore-setup/short/short-post-hero-single.php:128
+msgid ""
+"Optional event ID, if not specified will always show the first upcoming event"
+msgstr ""
+"ID de evento opcional, si no se especifica se mostrará el primer evento "
+"próximo"
+
+#: ttgcore-setup/short/short-eventfeatured.php:147
+msgid "Section title"
+msgstr "Sección titulo"
+
+#: ttgcore-setup/short/short-eventfeatured.php:153
+msgid "Countdown"
+msgstr "Cuenta atrás"
+
+#: ttgcore-setup/short/short-eventfeatured.php:155
+msgid "Display countdown."
+msgstr "Mostrar cuenta atrás"
+
+#: ttgcore-setup/short/short-onair.php:129
+#: ttgcore-setup/short/short-showslider.php:129
+msgid "Now On Air"
+msgstr "Al Aire Ahora"
+
+#: ttgcore-setup/short/short-onair.php:133
+#: ttgcore-setup/short/short-showslider.php:133
+msgid "Upcoming"
+msgstr "Comenzando"
+
+#: ttgcore-setup/short/short-onair.php:187
+msgid "Show on air"
+msgstr "Mostrar al aire"
+
+#: ttgcore-setup/short/short-onair.php:190
+#: ttgcore-setup/short/short-schedule.php:39
+msgid "Display a hero section of the show actually playing"
+msgstr "Mostrar hero section de los programas al aire"
+
+#: ttgcore-setup/short/short-onair.php:195
+#: ttgcore-setup/short/short-schedule.php:44
+#: ttgcore-setup/short/short-showslider.php:198
+#: ttgcore-setup/short/short-upcoming-shows-carousel.php:199
+msgid "Filter by 'schedulefilter' taxonomy"
+msgstr "Filtrar por taxonomia 'schedulefilter’"
+
+#: ttgcore-setup/short/short-onair.php:196
+#: ttgcore-setup/short/short-schedule.php:45
+#: ttgcore-setup/short/short-showslider.php:199
+#: ttgcore-setup/short/short-upcoming-shows-carousel.php:200
+msgid "Insert the slug of a schedulefilter taxonomy for multi-radio websites"
+msgstr "Insert the slug of a schedulefilter taxonomy for multi-radio websites"
+
+#: ttgcore-setup/short/short-post-grid.php:111
+msgid "Post Grid"
+msgstr "Vista de cuadrícula"
+
+#: ttgcore-setup/short/short-post-grid.php:114
+msgid "Grid of posts"
+msgstr "Cuadricula de posts"
+
+#: ttgcore-setup/short/short-post-grid.php:119
+#: ttgcore-setup/short/short-slideshow-carousel.php:161
+#: ttgcore-setup/short/short-slideshow-carousel.php:231
+#: ttgcore-setup/short/short-slideshow.php:117
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: ttgcore-setup/short/short-post-grid.php:122
+#: ttgcore-setup/short/short-post-hero-single.php:141
+#: ttgcore-setup/short/short-slideshow-carousel.php:164
+#: ttgcore-setup/short/short-slideshow-carousel.php:234
+#: ttgcore-setup/short/short-slideshow.php:120
+msgid "Number of posts to display"
+msgstr "Número de posts a mostrar:"
+
+#: ttgcore-setup/short/short-post-grid.php:126
+#: ttgcore-setup/short/short-slideshow-carousel.php:168
+#: ttgcore-setup/short/short-slideshow-carousel.php:238
+#: ttgcore-setup/short/short-slideshow.php:124
+msgid "Filter by category (slug)"
+msgstr "Filtrar por categoría (slug)"
+
+#: ttgcore-setup/short/short-post-grid.php:127
+#: ttgcore-setup/short/short-slideshow-carousel.php:169
+#: ttgcore-setup/short/short-slideshow-carousel.php:239
+#: ttgcore-setup/short/short-slideshow.php:125
+msgid "Insert the slug of a category to filter the results"
+msgstr "Insertar el slug de una categoría para filtrar los resultados"
+
+#: ttgcore-setup/short/short-post-grid.php:132
+#: ttgcore-setup/short/short-post-hero-single.php:145
+#: ttgcore-setup/short/short-slideshow-carousel.php:174
+#: ttgcore-setup/short/short-slideshow.php:130
+msgid "Offset (number)"
+msgstr "Offset (número)"
+
+#: ttgcore-setup/short/short-post-grid.php:133
+#: ttgcore-setup/short/short-post-hero-single.php:146
+#: ttgcore-setup/short/short-slideshow-carousel.php:175
+#: ttgcore-setup/short/short-slideshow.php:131
+msgid "Number of posts to skip in the database query"
+msgstr "Número de posts que se deben omitir en consultas de la base de datos"
+
+#: ttgcore-setup/short/short-post-grid.php:138
+#: ttgcore-setup/short/short-post-hero-single.php:151
+#: ttgcore-setup/short/short-slideshow-carousel.php:180
+#: ttgcore-setup/short/short-slideshow.php:136
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: ttgcore-setup/short/short-post-grid.php:140
+#: ttgcore-setup/short/short-post-hero-single.php:153
+#: ttgcore-setup/short/short-slideshow-carousel.php:182
+#: ttgcore-setup/short/short-slideshow.php:138
+msgid "Default"
+msgstr "Por defecto"
+
+#: ttgcore-setup/short/short-post-grid.php:141
+#: ttgcore-setup/short/short-post-hero-single.php:154
+#: ttgcore-setup/short/short-slideshow-carousel.php:183
+#: ttgcore-setup/short/short-slideshow.php:139
+msgid "Publish date"
+msgstr "Fecha de publicación"
+
+#: ttgcore-setup/short/short-post-grid.php:143
+#: ttgcore-setup/short/short-post-hero-single.php:156
+#: ttgcore-setup/short/short-slideshow-carousel.php:185
+#: ttgcore-setup/short/short-slideshow.php:141
+msgid "Random"
+msgstr "Aleatorio"
+
+#: ttgcore-setup/short/short-post-grid.php:145
+#: ttgcore-setup/short/short-post-hero-single.php:158
+#: ttgcore-setup/short/short-slideshow-carousel.php:187
+#: ttgcore-setup/short/short-slideshow.php:143
+msgid "Change the order of the posts"
+msgstr "Cambiar el orden de los posts"
+
+#: ttgcore-setup/short/short-post-hero-single.php:119
+msgid "Post Hero"
+msgstr "Post Hero"
+
+#: ttgcore-setup/short/short-post-hero-single.php:122
+msgid "Fullwidth post hero list"
+msgstr "Lista post hero Ancho completo"
+
+#: ttgcore-setup/short/short-post-hero-single.php:133
+msgid "Filter by category"
+msgstr "Filtrar por categoría"
+
+#: ttgcore-setup/short/short-post-hero-single.php:134
+msgid ""
+"Insert the slug of a category to always display the last post of that "
+"category."
+msgstr ""
+"Inserte el slug de una categoría para mostrar siempre el último post de esa "
+"categoría."
+
+#: ttgcore-setup/short/short-post-hero-single.php:139
+msgid "Quantity (number)"
+msgstr "Cantidad (número)"
+
+#: ttgcore-setup/short/short-schedule.php:36
+msgid "Shows schedule"
+msgstr "Mostrar horario"
+
+#: ttgcore-setup/short/short-showslider.php:190
+msgid "Shows slider"
+msgstr "Mostrar slider"
+
+#: ttgcore-setup/short/short-showslider.php:193
+msgid "Hero Slider of the upcoming shows of the day"
+msgstr "Hero Slider de los siguientes programas del el día"
+
+#: ttgcore-setup/short/short-slideshow-carousel.php:129
+msgid "Sorry, there is nothing for the moment."
+msgstr "Disculpa, no hay nada por el momento."
+
+#: ttgcore-setup/short/short-slideshow-carousel.php:153
+msgid "Post Carousel"
+msgstr "Post Carousel"
+
+#: ttgcore-setup/short/short-slideshow-carousel.php:156
+msgid "Carousel of posts on 3 columns"
+msgstr "Carrusel de post en 3 columnas"
+
+#: ttgcore-setup/short/short-slideshow-carousel.php:223
+msgid "Podcast Carousel"
+msgstr "Carrusel de Podcasts"
+
+#: ttgcore-setup/short/short-slideshow-carousel.php:226
+msgid "Carousel of podcasts on 3 columns"
+msgstr "Carrusel de podcasts en 3 columnas"
+
+#: ttgcore-setup/short/short-slideshow.php:109
+msgid "Post Slideshow"
+msgstr "Post Slideshow"
+
+#: ttgcore-setup/short/short-slideshow.php:112
+msgid "Automatic slideshow of posts"
+msgstr "Slideshow de posts Automático"
+
+#: ttgcore-setup/short/short-upcoming-shows-carousel.php:191
+#: ttgcore-setup/short/short-upcoming-shows-carousel.php:194
+msgid "Upcoming Shows Carousel"
+msgstr "Upcoming Shows Carousel"
