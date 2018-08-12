@@ -26,6 +26,7 @@ services:
     restart: always
     volumes:
       - ../web/wp-content:/var/www/html/wp-content
+      - ../php.ini:/var/www/html/php.ini
     environment:
       WORDPRESS_DB_HOST: db:3306
       WORDPRESS_DB_PASSWORD: password01

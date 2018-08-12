@@ -10,6 +10,9 @@ WORKDIR /var/www/html
 COPY ./web .
 # copying project inside Docker container
 
+COPY ./php.ini php.ini
+# copying PHP configuration inside Docker container
+
 ENV WORDPRESS_DB_PASSWORD password01
 # setting up wordpress db password variable
 
