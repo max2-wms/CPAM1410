@@ -1,4 +1,4 @@
-FROM wordpress:4.9.8
+FROM wordpress:4.7.1
 # starting from a wordpress:4.7.1 Docker image
 
 LABEL author "Maxime Pierre <max@webmediasolutionz.com>"
