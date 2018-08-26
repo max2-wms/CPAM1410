@@ -84,6 +84,6 @@
 					//NOUVELLES
 					"archives"						=>							"Archives",
 
-					"disclaimer"					=>							"* Nous éprouvons quelques problèmes en ce moment mais nous travaillons fort pour rétablir le site."
+					// "disclaimer"					=>							"* Nous éprouvons quelques problèmes en ce moment mais nous travaillons fort pour rétablir le site."
 	);
 ?>
