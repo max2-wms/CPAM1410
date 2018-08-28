@@ -8,10 +8,13 @@ WORKDIR /var/www/html
 # same as doing `$ cd /var/www/html`
 
 COPY ./web .
-# copying project inside Docker container
+# loading project inside Docker container
 
 COPY ./php.ini php.ini
-# copying PHP configuration inside Docker container
+# loading PHP configuration inside Docker container
+
+COPY ./setup.sh setup.sh
+# loading setup shell script
 
 ENV WORDPRESS_DB_PASSWORD password01
 # setting up wordpress db password variable
