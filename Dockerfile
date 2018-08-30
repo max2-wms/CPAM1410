@@ -7,13 +7,13 @@ LABEL author "Maxime Pierre <max@webmediasolutionz.com>"
 WORKDIR /var/www/html
 # same as doing `$ cd /var/www/html`
 
-COPY ./web .
+COPY --chown=www-data ./web .
 # loading project inside Docker container
 
-COPY ./php.ini php.ini
+COPY --chown=www-data ./php.ini php.ini
 # loading PHP configuration inside Docker container
 
-COPY ./setup.sh setup.sh
+COPY --chown=www-data ./setup.sh setup.sh
 # loading setup shell script
 
 ENV WORDPRESS_DB_PASSWORD password01
