@@ -4,16 +4,16 @@
   "description": "Dockerized Wordpress application for CPAM1410",
   "main": "index.js",
   "scripts": {
-    "dev-up": "docker-compose -f compose/docker-compose.dev.yml up -d",
-    "dev-down": "docker-compose -f compose/docker-compose.dev.yml down",
-    "build-up": "docker-compose -f compose/docker-compose.build.yml up --build",
-    "build-down": "docker-compose -f compose/docker-compose.build.yml down",
-    "prod-up": "docker-compose -f compose/docker-compose.prod.yml up -d",
-    "prod-down": "docker-compose -f compose/docker-compose.prod.yml down",
-    "swarm-init": "docker swarm init",
-    "swarm-leave": "docker swarm leave --force",
-    "swarm-up": "docker stack deploy -c compose/docker-compose.stack.yml cpam1410",
-    "swarm-down": "docker stack rm cpam1410"
+    "dev:up": "docker-compose up -d",
+    "dev:down": "docker-compose down",
+    "build:up": "docker-compose -f docker-compose.build.yml up --build",
+    "build:down": "docker-compose -f docker-compose.build.yml down",
+    "prod:up": "docker-compose -f docker-compose.prod.yml up -d",
+    "prod:down": "docker-compose -f docker-compose.prod.yml down",
+    "swarm:init": "docker swarm init",
+    "swarm:leave": "docker swarm leave --force",
+    "swarm:up": "docker stack deploy -c docker-compose.stack.yml cpam1410",
+    "swarm:down": "docker stack rm cpam1410"
   },
   "repository": {
     "type": "git",
