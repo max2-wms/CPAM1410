@@ -41,7 +41,7 @@ services:
     image: mysql:5.7
     restart: always
     volumes:
-      - cpam_data:/var/lib/mysql
+      - ../data/prod:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: password01
     networks:
