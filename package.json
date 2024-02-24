@@ -4,7 +4,7 @@
   "description": "Dockerized Wordpress application for CPAM1410",
   "main": "index.js",
   "scripts": {
-    "dev:up": "docker-compose up -d",
+    "dev:up": "docker-compose up",
     "dev:down": "docker-compose down",
     "build:up": "docker-compose -f docker-compose.build.yml up --build",
     "build:down": "docker-compose -f docker-compose.build.yml down",

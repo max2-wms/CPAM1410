@@ -1,5 +1,5 @@
-# starting from a wordpress:4.7.1 Docker image
-FROM wordpress:4.7.1
+# starting from a wordpress:6.4.3-apache Docker image
+FROM wordpress:6.4.3-apache
 
 # adding label for the author
 LABEL author "Maxime Pierre <max@webmediasolutionz.com>"
@@ -10,10 +10,6 @@ WORKDIR /var/www/html
 # loading project inside Docker container and changing 
 # ownership of the files to www-data user
 COPY --chown=www-data ./web .
-
-# loading PHP configuration inside Docker container and changing
-# ownership of the files to www-data user
-COPY --chown=www-data ./php.ini php.ini
 
 # setting up wordpress db password variable
 ENV WORDPRESS_DB_PASSWORD password01
