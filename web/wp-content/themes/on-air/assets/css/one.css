@@ -1,0 +1,85 @@
+img.wp-smiley, img.emoji {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    box-shadow: none;
+    display: inline;
+    height: 1em;
+    margin: 0 0.07em;
+    padding: 0;
+    vertical-align: -0.1em;
+    width: 1em;
+}
+
+.deskcolor {background-color:#e8e8e8 !important;}
+
+.paper, .card, .card .card-reveal, .tabs, .tabs li.tab, .qw-separator.triangle.small:after, .cbp-vm-view-list .cbp-vm-offair .cbp-vm-title, .cbp-vm-view-list .cbp-vm-offair .cbp-vm-time {background-color:#ffffff !important;}
+.maincolor, body.qw-stickynav nav#qwMainNavbar {background-color:#f0f0f0 !important;}
+#qwMainNavbar .maincolor, body.qw-stickynav nav#qwMainNavbar {background-color:#f0f0f0 !important;}
+.slider ul.indicators li.indicator-item.active {background-color:#f0f0f0 !important;}
+.tabs .indicator {background-color:#f0f0f0 !important;}
+.maincolor.dark , #qwMainNavbar .maincolor .dark {background-color:#f1f1f1 !important;}
+.accentcolor {background-color:#333333 !important;}
+.dropDownMenu li li a {background: linear-gradient(to right, #f1f1f1 34%, #f0f0f0 65%);background-size: 300% 100%;background-position:right bottom;}
+  .accentcolor.dark  {background-color:#f2d337 !important;}
+ul.qw-smallmenu li::after {background-color:#f0f0f0 !important;}
+a.accentcolor:hover {background-color:#f2d337 !important;}
+body, .textcolor,.cbp-vm-view-list .cbp-vm-offair .cbp-vm-time {color: #545454 !important;}
+a:hover {color:#f1f1f1 !important;}
+a {color:#333333 !important;}
+.maincolor, .cbp-vm-view-list .cbp-vm-nowonair .cbp-vm-title, .cbp-vm-view-list .maincolor .cbp-vm-time span  {color:#333333 !important;}
+.maincolor a {color:#ffffff !important;}
+.maincolor a:hover, li.current-menu-item > a {color:#f2d337 !important;}
+.maincolor-text, .cbp-vm-view-list .cbp-vm-offair .cbp-vm-title {color:#f0f0f0 !important;}
+a.maincolor-text, .card-footer a.prettySocial span {color:#f0f0f0 !important;}
+a.maincolor-text:hover {color:#f1f1f1 !important;}
+.maincolor ::-webkit-input-placeholder, .maincolor :-moz-placeholder, .maincolor ::-moz-placeholder, .maincolor :-ms-input-placeholder {color: #333333 !important;}
+.accentcolor {color:#e0f2f1 !important;}
+.widget .qw-widget-title {border-color:#333333;}
+.accentcolor a {color: !important;}
+.accentcolor a:hover {color:#f2d337 !important;}
+.accentcolor-text, a.accentcolor-text {color:#333333 !important;}
+a.accentcolor-text:hover {color:#f2d337 !important;}
+a.accentcolor, a.accentcolor:hover  {color: !important;}
+.qw-fancyborder, blockquote {border-color:#f0f0f0 !important;}
+.maincolor input[type=text], input[type=password], .maincolor input[type=email], 
+.maincolor input[type=url], .maincolor input[type=date], .maincolor input[type=tel], 
+.maincolor input[type=number], .maincolor input[type=search], .maincolor textarea.materialize-textarea {border-bottom-color:#333333;}
+.cbp-vm-view-list .cbp-vm-time {background-color:transparent !important;}
+body {
+  background-image:url(http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/onair-bg.jpg);
+  background-size:cover;background-attachment:fixed;background-position: center center;
+}
+
+.container {
+  max-width:990px;
+}
+
+@media only screen and (min-width : 992px) {
+  .brand-logo {
+    margin-top:15px;
+  }
+}
+
+@media only screen and (min-width : 992px) {
+  .brand-logo img {
+    max-height:50px;
+  }
+}
+
+body.qw-stickynav nav#qwMainNavbar  .brand-logo {
+  margin-top:8px;
+}
+
+body.qw-stickynav nav#qwMainNavbar  .brand-logo img {
+  max-height:40px;
+}
+
+@media only screen and (max-width: 600px) {
+  .brand-logo {
+    margin-top:5px;
+  }
+  
+  .brand-logo img {
+    max-height:30px;
+  }
+}

@@ -1,0 +1,12 @@
+
+body#theBody.custom-background {
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+body, p, .normalfont, .qw-nf {
+    font-family: "Lato",sans-serif;
+}
+h1, h2, h3, h4, h5, qw-page-title, .tooltip, #nav, h1.qw-page-title, h1.qw-moduletitle {
+    font-family: "Montserrat",sans-serif;
+}
