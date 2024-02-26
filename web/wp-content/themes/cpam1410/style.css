@@ -1,0 +1,248 @@
+/*
+Theme Name: Ventage CPAM 1410
+Theme URI: http://www.themaxmckenzy.com/
+Description: CPAM 1410 theme by Valerie Morin
+Author: Valerie Morin
+Author URI: http://www.themaxmckenzy.com/
+*/
+
+#logo {
+	position: absolute;
+	width: 174px;
+	height: 106px;
+	background: url(images/logo2.jpg) no-repeat;	
+}
+
+#navigation {
+	width: 670px;
+	height: 15px;
+	margin-left: 215px;	
+	padding-top: 15px;
+}
+
+#navigation ul, #footer div div ul {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	list-style: none;	
+}
+
+#nav1, #nav2, #nav3, #nav4, #nav5, #nav6 {
+	display: block;
+	height: 15px;	
+}
+
+#nav1 {
+	width: 78px;
+	background: url(images/nav_sprite.png) no-repeat 0px 0px;	
+}
+
+#nav1:hover, #navigation ul li.current a#nav1 {
+	background: url(images/nav_sprite.png) no-repeat 0px -15px;
+}
+
+#nav2 {
+	width: 80px;
+	background: url(images/nav_sprite.png) no-repeat -107px 0px;	
+}
+
+#nav2:hover, #navigation ul li.current a#nav2 {
+	background: url(images/nav_sprite.png) no-repeat -107px -15px;	
+}
+
+#nav3 {
+	width: 102px;
+	background: url(images/nav_sprite.png) no-repeat -215px 0px;	
+}
+
+#nav3:hover, #navigation ul li.current a#nav3 {
+	background: url(images/nav_sprite.png) no-repeat -215px -15px;
+}
+
+#nav4 {
+	width: 90px;	
+	background: url(images/nav_sprite.png) no-repeat -343px 0px;
+}
+
+#nav4:hover, #navigation ul li.current a#nav4 {
+	background: url(images/nav_sprite.png) no-repeat -343px -15px;
+}
+
+#nav5 {
+	width: 86px;
+	background: url(images/nav_sprite.png) no-repeat -460px 0px;	
+}
+
+#nav5:hover, #navigation ul li.current a#nav5 {
+	background: url(images/nav_sprite.png) no-repeat -460px -15px;
+}
+
+#nav6 {
+	margin-top: 2px;
+	width: 75px;
+	background: url(images/blogue_sprite.png) no-repeat 0px -15px;	
+}
+
+#nav6:hover, #navigation ul li.current a#nav6 {
+	background: url(images/blogue_sprite.png) no-repeat 0px 0px;
+}
+
+#header {
+	height: 302px;
+	background: url(images/big_banner.jpg) no-repeat center top;	
+}
+
+#tagline {
+	color: #dbc7bc;
+	font-size: 220%;
+	margin: 100px 0px 0px 60px;
+	position: absolute;	
+}
+
+#content {
+	margin-top: -15px;
+}
+
+#content2 {
+	margin-top: 25px;	
+}
+
+#main_content {
+	width: 608px;	
+}
+
+#sidebar {
+	width: 320px;	
+}
+
+#sidebar2 {
+	width: 300px;
+}
+
+#main_content, #sidebar {
+	background-color: #c3bfbe;	
+}
+
+#small_banner {
+	display: block;
+	position: absolute;
+	width: 161px;
+	height: 50px;
+	margin: 10px 0px 0px -10px;
+	padding: 10px 0px 0px 10px;
+	z-index: 100;
+	background: url(images/small_banner.png) no-repeat;	
+}
+
+.live_streaming {
+	width: 323px;
+	height: 115px;
+	padding: 15px 0px 0px 15px;
+	margin-bottom: 20px;
+	background: url(images/ecoutez_en_direct.png) no-repeat -1px top;	
+}
+
+.live_radio {
+	background: url(images/ecoutez_en_direct.png) no-repeat -1px top;	
+}
+
+.webcam {
+	background: url(images/web_camera.png) no-repeat;	
+}
+
+.tv {
+	background: url(images/tv.png) no-repeat;
+}
+
+#footer {
+	height: 56px;
+	margin: 20px 0px 20px 0px;
+	padding: 15px 0px 15px 0px;
+	background: url(images/footer_bg.jpg) repeat-x;	
+	font-size: 80%;
+}
+
+#footer_logo {
+	display: block;
+	width: 108px;
+	height: 57px;
+	margin-top: 5px;
+	background: url(images/logo.png) no-repeat;	
+}
+
+#line {
+	width: 2px;
+	height: 56px;
+	margin: 0px 30px 0px 30px;
+	background: url(images/line.jpg) repeat-y;	
+}
+
+#footer a:link {color: #3c3c3c;}      /* unvisited link */
+#footer a:visited {color: #3c3c3c;}  /* visited link */
+#footer a:hover {color: #FFF;}  /* mouse over link */
+#footer a:active {color: #3c3c3c;}  /* selected link */ 
+
+#slider {
+	margin-bottom: 5px;	
+}
+
+#subtitle {
+	position: absolute;
+	width: 300px;
+	height: 45px;
+	margin: 2px 0px 0px 130px;	
+}
+
+#map {
+	width: 380px;
+	height: 250px;	
+}
+
+#schedule_title {
+	width: 320px;
+	padding-bottom: 20px;	
+}
+
+#schedule {
+	margin-top: 30px;	
+}
+
+#schedule tr td {
+	vertical-align: top;	
+	padding-right: 40px;
+}
+
+#live_radio {
+	width: 265px;
+	height: 50px;
+	margin-top: -15px;
+	padding: 35px 0px 0px 10px;
+	background: url(images/live_radio.jpg) no-repeat;
+}
+
+#large_image {
+	width: 245px;
+	height: 245px;
+	margin: 0px 0px 0px 40px;	
+}
+
+#small_banner, .widget h4 {
+	display: block;
+	width: 161px;
+	height: 50px;
+	padding: 10px 0px 0px 10px;
+	z-index: 100;
+	background: url(images/small_banner.png) no-repeat;	
+}
+
+.live_streaming.widget h4 {
+	background: none;
+}
+
+.widget h4 {
+	margin-left: 0px;	
+}
+
+#small_banner {
+	margin: 10px 0px 0px -10px;
+	position: absolute;
+}
