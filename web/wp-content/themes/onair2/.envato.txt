@@ -1,0 +1,428 @@
+
+<p>OnAir2 is the <strong> top sellinbg most rated WordPress theme to create professional radio station websites</strong>, with non-stop music player, radio shows, schedule, podcasts, events calendar, eCommerce, donations and more.</p>
+<h2><strong>Version 5 is out!</strong></h2>
+<strong>The most loved Radio Station WordPress Theme is back, better than ever! Now faster, easier to use and with tons more features!</strong>
+
+
+<h2><strong> Now with full Elementor Support!</strong></h2>
+<ul>
+<li>24 Custom unique Elementor widgets for radios</li>
+<li>14+ Page templates for Elementor included</li>
+<li>4 prebuilt websites (1 click import)</li>
+<li><strong>Realtime visual editing!</strong></li>
+</ul>
+<small>Elementor Pro NOT REQUIRED AND NOT INCLUDED</small>
+
+<h2><strong>Non-stop player, Shows schedule, Speakers and more!</strong></h2>
+<p>OnAir2 is compatible with any mp3, aac and ogg web radio stream, and can also display song title and artist from any major provider as ShoutCAST 2, IceCAST, Radio.co, Airtime, Live365, Radionomy and many more.</p>
+<p><strong>No coding skills required, 14 days money back warranty!</strong></p> Do you need more info? <a href="https://qantumthemes.com/presale/">write us!</a>
+
+<a href="https://themeforest.net/item/onair2-radio-station-wordpress-theme/19340714?license=regular&open_purchase_for_item_id=19340714&purchasable=source"><img src="https://qantumthemes.xyz/themeforest/onair2/radio-wordpress-theme-demos-2019-5.png"></a>
+<img src="https://qantumthemes.xyz//themeforest/onair2/onair2-info-2022/1.jpg">
+<img src="https://qantumthemes.xyz//themeforest/onair2/onair2-info-2022/2.jpg">
+<a href="https://demo.qantumthemes.xyz/onair2/demo4/"><img src="https://qantumthemes.xyz//themeforest/onair2/onair2-info-2022/3.jpg"></a>
+<a href="https://demo.qantumthemes.xyz/onair2/demo2/"><img src="https://qantumthemes.xyz//themeforest/onair2/onair2-info-2022/4.jpg"></a>
+<a href="https://demo.qantumthemes.xyz/onair2/demo3/"><img src="https://qantumthemes.xyz//themeforest/onair2/onair2-info-2022/5.jpg"></a>
+<a href="https://demo.qantumthemes.xyz/onair2/demo1/"><img src="https://qantumthemes.xyz//themeforest/onair2/onair2-info-2022/6.jpg"></a>
+<img src="https://qantumthemes.xyz//themeforest/onair2/onair2-info-2022/7.jpg">
+<img src="https://qantumthemes.xyz//themeforest/onair2/onair2-info-2022/8.jpg">
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://themeforest.net/item/onair2-radio-station-wordpress-theme/19340714?license=regular&open_purchase_for_item_id=19340714&purchasable=source"><img src="https://qantumthemes.xyz/themeforest/onair2/radio-wordpress-theme-demos-2019-5.png"></a>
+<img src="https://qantumthemes.xyz/themeforest/onair2/infographic.jpg">
+<a href="https://themeforest.net/item/onair2-radio-station-wordpress-theme/19340714?license=regular&open_purchase_for_item_id=19340714&purchasable=source"><img src="https://qantumthemes.xyz/themeforest/onair2/radio-wordpress-theme-demos-2019-5.png"></a>Radio has rapidly evolved over the past few years with the advent of newer, better and inexpensive distribution technologies including streaming, podcasting and of course online radio stations. <br /><br />You want your radio station embrace this, which
+is what you will find bundled into the one off purchase of OnAir2 &#8211; a complete WordPress package for building commercial radio stations, radio programs, radio circuits, networks, podcasts, independent radio and internet-based radio station websites.<br
+/><br /></p>
+<h2 id="item-description__radio-player">Radio Player</h2> Building a modern, premium web based radio station packed full of features with OnAir2. With Radio Player functionality that is uber mobile friendly, can make use of unlimited channels and can stream any MP3 stream for high quality, low bandwidth-demanding
+professional sound. <br /><br />Built with the latest technologies in streaming multimedia OnAir2 is ready for use with MP3 streams, SHOUTcast or Icecast and features a funky Popup Player that supports continuous play. How good is that?<br /><br />
+<h3>Songs feed</h3>
+Using ShoutCAST 2, IceCast, Radio.co, AirTime, Live365 or Radionomy? Fantastic! This theme can also display the title of the songs! You can also display the titles reading ANY text feed.<br /><br />
+
+<h3>Now supporting non-standard https ports for ShoutCAST</h3>
+If your radio channel has a non-standard port for the https protocol, OnAir2 V3.6 includes an option to force the HTTPS connection and make your song titles compatible with your HTTPS website.
+
+<h3>New! Playable radio channel cards!</h3>
+For multi-channel radios you can now display radio-cards with playable function and create a gallery of all of your radio stations using Page Builder.
+
+
+<h2 id="item-description__show-schedules">Show Schedules</h2> Creating a top rated Radio Station requires a certain level of finesse, and that is what OnAir2 brings to the table for you. With purpose built pages for Shows you can expect a sticky experience that will leave your listeners craving more.<br /><br />Beautifully
+styled pages that don&#8217;t feel like a normal website with gorgeous full width parallax backgrounds that highlight your best content &#8211; your show. <br /><br />Feature Days, Weeks or Months schedule in a simple yet elegant and professional way
+that includes a slick way to encourage Social Media subtly sharing built into every page. <br /><br />Easy to setup, automatic time and day detection, elegant show sliders and simple tables. No stone left unturned.
+
+<h2>All on autopilot!</h2>
+We know time is precious. That's why all of our home page widgets are automatically udpated for you! The contents are taken live from your news, shows, schedule and podcast.
+Each time you add new content, your home page is automatically udpated! <strong>Every time you update a schedule or show, it's updated automatically across all of your website! Save time, work smart!</strong> make your radio station website without the effort of manual homepage updates!
+
+
+<h2 id="item-description__show-pages">Show Pages</h2> Display gorgeous Grid or Masonry style Pages by Category or Music Genre and make use of a clever Tag taxonomy enabling your user base to easily search by terms that are relevant to them. <br /><br />Give your users somewhere to go while they tune in
+with Related Top 10 stories, Top Tracks, Newsfeed and Previous Episodes available at the scroll of a wheel and click of a mouse. <br /><br />Show pages also feature an automatic timetable, can display a Podcast series and make use of an eye popping parallax
+header that seamlessly scales to a user&#8217;s device and moves as if by magic while scrolling. We think you&#8217;ll love it. <br /><br />
+<h2 id="item-description__podcast-series">Podcast Series</h2> Every Radio Station today needs to take it&#8217;s audio offline and into your fanbase&#8217; hands with a technologically savvy and professional sound Podcast. OnAir2 makes use of all of today&#8217;s best Podcast technologies guaranteeing you compatibility
+with your audience wherever they are listening.<br /><br />OnAir2 is fully compatible with SoundCloud, YouTube, MixCloud and also features a feature rich MP3 Player built in meaning you can implement any of these technologies easily without any coding
+required.<br /><br />
+<h2 id="item-description__top-10-charts">Top 10 Charts</h2> Having a Chart feature on your new Radio Station Website just makes sense. You want to show Top Tracks played by day, week, month and year. Create sticky content with beautifully integrated audio and video content on purpose built pages that feature
+full tracklists, and display audio via any of the relevant web technologies, or the built in MP3 player.<br /><br />Display Unlimited Tracks and make use of any of the many Shortcodes available to create stunning pages with an Accordion Design for elegant
+chart listings which can be embedded into any page. <br /><br />
+<h3>New since V3.6! Chart auto sorting</h3>
+Now you can automatically reorder the chart tracks based on the user votes, keeping your charts up to date automatically!
+
+
+<h2 id="item-description__events-calendar">Events Calendar</h2> Complete the package with an integrated solution for displaying Events that includes auto-hide of past events for a full package website. <br /><br />Featuring a Countdown timer to build hype about your next event that displays in Days, Hours, Minutes
+and Seconds, you can include Location details with integration of Maps and important event information. Include &#8216;Buy Tickets&#8217; links and help promote your artists, events and upcoming shows.<br /><br />
+<h2 id="item-description__custom-posts-widgets-and-shortcodes">Custom Posts, Widgets and Shortcodes</h2> With 11 Custom Post Types, 7 Custom Widgets and 14 Custom Shortcodes to help you create the ultimate radio station website, we are confident you are going to love OnAir2 alongside over 500 happy customers. <br /><br />If that isn&#8217;t enough to float
+your boat, get creative with any number of our already built Page Templates or take it to the next level with Drag and Drop simplicity&#8230;<br /><br />
+<h2 id="item-description__build-modify-create">Build, Modify, Create</h2> But don&#8217;t feel limited by all of these possibilities alone &#8211; because that&#8217;s just the tip of this iceberg. <br /><br />OnAair2 is complemented and extended even further with the efficiency of a Page Builder. Create almost any web element
+you desire with the Drag &#38; Drop simplicity of the #1 top selling Plugin for WordPress, WPBakery Page Builder.<br /><br />
+<ul>
+	<li>Fast and responsive</li>
+	<li>11 Post types</li>
+	<li>Shoutcast/Icecast player (requires public mp3 stream, contact us for pre purchase test)</li>
+	<li>Shoutcast V.2 Song Titles Feed</li>
+	<li>Popup player</li>
+	<li>7 Custom widgets</li>
+	<li>Totally customizable in colors and fonts</li>
+	<li>Lots of shortcodes</li>
+	<li>WPBakery included (some modules are disabled as incompatible with ajax. We can reenable them if you need, disabling ajax plugin)</li>
+	<li>Show schedule with automatic sliders and &#8220;on air&#8221; show info</li>
+	<li>Working contacts page with form and map</li>
+	<li>Ajax capabilities</li>
+	<li>Pixel perfect design</li>
+</ul>
+<a href="https://themeforest.net/item/onair2-radio-station-wordpress-theme/19340714?license=regular&open_purchase_for_item_id=19340714&purchasable=source"><img src="https://qantumthemes.xyz/themeforest/onair2/radio-wordpress-theme-demos-2019-5.png"></a>
+<h2 id="item-description__documentation">Documentation</h2> <a href="http://www.qantumthemes.com/manuals/onair2/" rel="nofollow">Theme documentation can be found here</a>
+<h2 id="item-description__support">Support</h2>
+<strong>Item support includes:</strong>
+<ul>
+<li>Availability of the author to answer questions</li>
+<li>Answering technical questions about item&#8217;s features</li>
+<li>Assistance with reported bugs and issues</li>
+</ul>
+<a href="http://www.qantumthemes.com/manuals/onair2/knowledge-base/support/" rel="nofollow">Request support</a>
+<a href="https://themeforest.net/item/onair2-radio-station-wordpress-theme/19340714?license=regular&open_purchase_for_item_id=19340714&purchasable=source"><img src="https://qantumthemes.xyz/themeforest/onair2/radio-wordpress-theme-demos-2019-5.png"></a>
+<h2 id="item-description__reviews">Reviews</h2> <img src="https://radiowordpresstheme.com/themeforest-preview/radio-wordpress-theme-comments.png" /><br /><br />
+<h2 id="item-description__now-supporting">Streaming providers full support</h2>
+<p><strong>OnAir2 can play any web radio stream</strong>, and can also display title and artist natively from the most common formats and providers, such as:</p>
+<ul>
+	<li>ShoutCast</li>
+	<li>IceCast</li>
+	<li>Radio.co</li>
+	<li>Radionomy</li>
+	<li>Airtime</li>
+	<li>Live365</li>
+	<li>Audio stream from any MP3 URL</li>
+	<li>Plain text author &#8211; song title</li>
+</ul><br /><br />
+<h2 id="item-description__onair2-v3-is-out">OnAir2 V3 is out!</h2>
+<strong>This theme now includes </strong>
+<ul>
+<li>WP 5 ready!</li>
+<li>Revolution Slider</li>
+<li>WooCommerce support</li>
+<li>Give Donation support</li>
+<li>new shortcodes</li>
+<li>top bar player </li>
+<li>and more!</li>
+</ul>
+<h4 id="item-description__premium-plugins">Premium plugins</h4> The standard license includes <strong>free lifetime updates</strong>, 6 months of helpdesk support, theme, child theme and bundle license for the premium plugins: WpBakery Page Builder, Slider Revolution, QT Places, and much more!
+<h3 id="item-description__gdpr-ready">GDPR Ready</h3> Compatible with WP 5 and newer and <strong>including compatibility for the latest GDPR WordPress features.</strong>
+<h3 id="item-description__copyright">Copyright</h3> Every JS library used in the project is GPL or GNU. Details in the manual.
+<strong>Images are not part of the product nor included in the demo installations</strong>
+<a href="https://themeforest.net/item/onair2-radio-station-wordpress-theme/19340714?license=regular&open_purchase_for_item_id=19340714&purchasable=source"><img src="https://qantumthemes.xyz/themeforest/onair2/radio-wordpress-theme-demos-2019-5.png"></a>
+<h4 id="item-description__changelog">OnAir2 Radio WordPress Theme Changelog</h4>
+
+
+
+<pre>
+<h4>== Changelog ==</h4>
+
+Version: 5.0.0 [2022 November 10]
+
+[x] Added option to play channel on Elementor OnAir Button
+[x] Added song title and artwork in menu bar
+[x] Added menu font size option
+[x] Added play/pause menu button option in Player Design
+[x] Added Elementor compatibility
+[x] CUSTOMIZER: Added header padding
+[x] CUSTOMIZER: Added header font size
+[x] CUSTOMIZER: Added MENU FONT SIZE
+[x] CUSTOMIZER: Added player song title in menu bar
+[x] CUSTOMIZER: Added player play button
+[X] REMOVED Revolution slider
+[X] REMOVED WPBakery (all demos moved to Elementor, you can still use WPBakery if you want but demos are now only for Elementor)
+[x] UPDATES Ajax page load to V3 (Added Elementor support)
+[x] ADDED PLUGIN: OnAir Elementor Builder: adding lots of Elementor widgets for the Radio station functionalities
+
+Version: 4.0.2 [2022 September 12]
+[x] Schedule archive title fix
+
+Version: 4.0.1 [2022 July 22]
+[x] Player responsivity detection moved to javascript for better caching compatibility
+Version: 4.0.0 [2022 April 13]
+[x] Updated WPBakery plugin
+[x] Fixed TGMPA:1797 You cannot access this page ( public function is_tgmpa_complete() { return false; } )
+
+Version: 3.9.9.9.1 [2022 February 24]
+[x] Fields.php changed copyright text in footer to editor, now allowing html editing
+[x] Added support for MediaCP song titles ( streamerr.co and other providers )
+[x] Added caching system for SSL proxy: CPU usage decreased significantly
+[x] Added more support for shoutcast proxy url
+
+Version 3.9.9.8 [2021 October 14]
+[x] Updates for streaming title proxy in functions.php:1071 and below (qantumthemes_radioproxy)
+[x] Updates for streaming title proxy in  qt-main.js:1179 - 1229 and minified version 
+
+Version 3.
+
+Version 3.9.9.7 [2021 October 10]
+[x] Added support for Shoutcast proxy XML source (use Metadata checkbox)
+
+Version 3.9.9.6 [2021 August 15]
+[x] SecureSystems radio feed implementation updated
+
+Version 3.9.9.5 [2021 July 29]
+[x] Team member add email icon and link
+[x] Pot file translated
+[x] Added plugin "classic widgets"
+
+Version 3.9.9.4 [2021 June 28]
+[x] Theme Core Plugin updated
+
+Version 3.9.9.3 [2021 June 20]
+[x] Admin icon fix for theme page
+
+Version 3.9.9.2 [2021 June 18]
+[x] functions.php removed redoundant sanitization
+[x] qt-main.js checking tavs and mediaelement loading before calling functions in main.js
+[x] functions.php added class when customizer is being used
+[x] qt-main.js added fallback function for song titles if the customizer is in use
+[x] Improved customizer performance
+[x] Updated TTG Core plugin
+[x] functions.php proxy completely blocked if not enabled manually
+[x] Player: improved song reading for shoutcast and icecast
+
+Version 3.9.9.1 [2021 June 18]
+[x] Improved proxy functionality
+
+Version 3.9.9 [2021 May 05]
+[x] Updated core files
+
+
+Version 3.9.8 [2021 April 19]
+[x] Added team carousel shortcode in WPBakery
+
+
+Version 3.9.7.1 [2021 April 03]
+[x] FIXED upcoming show widget refresh
+[x] UPDATED qt-main.js:1519 added class for upcoming shows widgets
+
+Version 3.9.6 [2021 March 22]
+[x] UPDATED qtAjaxElementsRefresh now working for multiple items on a page and fixed issue of swapping items
+[x] FIXED Upcoming Shows Mini shortcode and widget
+[x] FIXED Captions font in customizer displaying incorrect font family
+[x] IMPROVED Ads Slot Player Bar desktop now uses all available space
+[x] IMPROVED Ads Slot Player Bar desktop can hold 2 Mini widgets
+[x] IMPROVED Ads Slot classic player right and left padding
+
+Version 3.9.5 [2021 March 14]
+[x] UPDATED PLUGIN WPBakery Page Composer to 6.6.0
+[x] UPDATED PLUGIN Envato Market
+[x] UPDATED funcitons.php wrapped qantumthemes_getMp3StreamTitle functions in "function_exists"
+[x] UPDATED funcitons.php wrapped qantumthemes_radioproxy functions in "function_exists"
+[x] UPDATED funcitons.php wrapped qantumthemes_add_proxy_param functions in "function_exists"
+[x] FIXED single-show.php "Tagged as" is always shown even when associated tags are not set
+[x] UPDATED short-onair.php removed ID to avoid duplicates, added class .qtautoupdate-element
+[x] UPDATED WooCommerce checkout page design
+
+Version 3.9.4 [2021 February 25]
+[x] Minor query fixes for WP 5.6.2
+
+Version 3.9.3 [2021 February 12]
+[x] Short onair (short-onair.php) added intval to social ID to fix wp 5.6 id format query
+[x] Added twitch icon for members and shows
+
+Version 3.9.2 [2021 February 06]
+[x] Fix tag line shows carousel
+
+Version 3.9.1 [2021 january 24]
+[x] FIX Share popup don't stop music
+
+Version 3.9.0 [2021 january 05]
+[x] Updated theme core plugin
+
+
+
+
+Version 3.8.9 [2020 december 13]
+[x] Restored chart rating field in admin for customer request
+
+Version 3.8.8 [2020 december 09]
+[x] qt-main.js and minified version fixed dropdown schedulem mobile bug
+
+Version 3.8.7 [2020 december 09]
+[x] Improved design part-post-author.php
+[x] Removed Swipebox disable function in inc/tgm-plugin-activation/conf.php
+[x] Updated qt swipebox to 5.6
+[x] QT-main.js added reinit support for Swipebox 5.6 $.qtSwipeboxFunction()
+
+Version 3.8.6 [2020 december 08]
+[x] Force disable qt swipebox in inc/tgm-plugin-activation/conf.php
+
+Version 3.8.5 [2020 december 03]
+[x] qt-main.js fixed line 498 with newer version of browser detection
+
+Version 3.8.4 [2020 december 01]
+[x] Custom header background image on any post type (ttgcore-setup/custom-types/*)
+[x] Improved part-background-image-header.php
+
+Version 3.8.3 [2020 november 23]
+[x] Added custom image for header in shows details
+
+Version 3.8.2 [2020 october 24]
+[x] WooCommerce checkboxes checkout fix
+[x] WooCommerce 4.6 minor updates
+
+Version 3.8.1 [2020 october 04]
+[x] UPDATED WPBakery to 6.4.1
+[x] IMPROVED schedule function: fixed description for wp 5.5.1 and added wp_strip_all_tags files phpincludes/part-show-schedule-day.php and single-schedule.php
+[x] IMPROVED demo import process (ocdi-setup.php) for better servers compatibility (increased ajax call to 200 seconds)
+
+Version 3.8.0 [2020 September 19]
+[x] ADMIN: Now plugin updates are not dismissable anymore, because of users disabling the message and complaining for having outdated plugins
+[x] TGMPA Dismiss link removed 'dismiss'  => $this->dismissable 
+[x] TGM REMOVED LINE 1111 class-tgmpa-plugin-activation.php // || get_user_meta( get_current_user_id(), 'tgmpa_dismissed_notice_' . $this->id, true ) 
+[x] ADDED app icon Alexa Skills
+[x] UPDATED WPBakery to 6.4.0
+[x] UPDATED Envato Market plugin
+
+Version 3.7.9.4 [2020 September 01]
+[x] part-show-schedule-day.php removed is_numeric check
+[x] single-schedule.php removed is_numeric check
+
+
+Version 3.7.9.3 [2020 August 27]
+[x] UPDATED Theme core plugin update to 1.3.2 
+[x] ADDED Sponsors carousel WPBakery added random ordering checkbox
+[x] IMPROVED Admin bar position set to fixed
+[x] ADDED new optional menu for the mobile sidebar menu, as alternative to the main menu
+[x] IMPROVED WPbakery hover boxes component rendering, fixing mirrored text
+[x] WPBakery plugin update
+[x] Envato market plugin update
+
+Version 3.7.9.2 [2020 August 13]
+[x] Added jquery migrate to frontend
+
+Version 3.7.9.1 [2020 August 12]
+[x] WordPress 5.5 compatibility update (Please update the plugins)
+
+Version 3.7.8 [2020 June 27]
+[x] Sponsors carousel: added filter by ID
+[x] WooCommerce 4.2.2 compatibility update
+
+Version 3.7.7 [2020 June 13]
+[x] Auto refresh frequency set to 2 minutes
+
+Version 3.7.6 [2020 June 11]
+[x] Playlist ajax reload
+[x] WPBakery page builder update
+
+Version 3.7.5 [2020 April 23]
+[x] Only version number change. Prev zip was not good.
+
+
+Version 3.7.4 [2020 April 21]
+[x] Auto refresh update
+[x] Javascript console output icy metadata removed
+[x] YouTube icon updated after new guidelines 
+
+Version 3.7.3 [2020 April 20]
+[x] Added support for radio titles with ICY metadata
+
+Version 3.7.2 [2020 April 12]
+[x] Minor css fixes
+
+Version 3.7.1 [2020 April 4]
+[x] Safari user agent recognition
+[x] PHP function update in sharepage.php
+
+Version 3.7.0 [2020 February 5]
+[x] UPDATED Chart Vote plugin
+[x] UPDATED WPBakery Page Builder plugin
+[X] ADDED support for Icecast with separated artist field
+[x] Fixed default color in part-playercontainer.php ff0442
+[x] ADDED higher stream buffering time
+[x] ADDED spotify support in chart tracklist
+
+Version 3.6.8 [2019 December 8]
+[x] Plugins update
+
+Version 3.6.7 [2019 November 27]
+[x] FIXED PHP notice for WP 5.3 in welcome-page.php
+[x] ADDED full stop stream option in Radio settings
+[x] ADDED Live365 stream support
+[x] ADDED icons "email" and "website" for the shows
+[x] UPDATED Ajax Page Load plugin to 2.4
+[x] ADDED reload code to the Ajax Page Load settings: add your custom script after ajax loading complete
+[x] ADDED Facebook Videos support to QT VideoLove plugin and video post type plus any Facebook embedded video
+
+Version 3.6.6 [2019 October 22]
+[x] RESTORED Page Builder single image element
+[x] UPDATED QT Widgets plugin: added current show checkbox in upcoming shows, updated schedule extraction
+[x] UPDATED schedule shows extraction on any shortcode and template to fix conglict in presence of precise date schedules
+
+Version 3.6.4 [2019 October 01]
+[x] Comments.php display comments count only if there are comments
+[x] ADDED Icecast added support for separate author field
+[x] ADDED spotify icon in heder social
+[x] ADDED instagram in single show page
+[x] Larger social icons in single show page
+
+Version 3.6.3 [2019 August 11]
+[x] UPDATED short-chart.php
+
+Version 3.6.1 [2019 August 10]
+[x] FIXED chart voting for sorted chart
+
+Version 3.6.0 [2019 August 10]
+[x] ADDED Support for non-443 shoutcast https feed URL 
+http://www.qantumthemes.com/manuals/onair2/knowledge-base/2-5-radio-station-channels/
+[x] ADDED playable radio card shortcode
+ http://www.qantumthemes.com/manuals/onair2/knowledge-base/4-0-qt-gridstacks-definition/
+[x] ADDED chart auto ordering in customizer options 
+http://www.qantumthemes.com/manuals/onair2/knowledge-base/2-2-music-charts/
+
+Version 3.5.3 [2019 July 20]
+[x] ADDED again vc_set_as_theme on load
+
+Version 3.5.1 [2019 July 20]
+[x] REMOVED Legacy files folders
+
+Version 3.5.0 [2019 July 17]
+[x] ADDED Purchase code validation
+[x] REMOVED theme dashboard
+[x] UPDATED documentation
+[x] ADDED new plugins installer
+[x] ADDED new demo installer
+[x] FIXED prev and next post in mobile
+[x] UPDATED Ajax Page Load (safed scripts execution of loaded pages)
+[x] ADDED new slider header option for each page template (pages and archives)
+
+Version 3.4.3 [2019 June 16]
+[x] Chart shortcode > Solved Page Builder conflict when chart is empty
+[x] Chart list design > Cart icon color, design, typography [ thanks marbsradio.com ]
+[x] Page Builder update 6.0.3
+</pre>
+<p><a href="https://qantumthemes.xyz/themeforest/onair2/changelog.txt" rel="nofollow">Full Changelog</a></p>
+
+</p>
+<a href="https://themeforest.net/item/onair2-radio-station-wordpress-theme/19340714?license=regular&open_purchase_for_item_id=19340714&purchasable=source"><img src="https://qantumthemes.xyz/themeforest/onair2/radio-wordpress-theme-demos-2019-5.png"></a>
+
+This theme is not meant for multisite installations.

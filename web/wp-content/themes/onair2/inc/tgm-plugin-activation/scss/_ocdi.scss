@@ -1,0 +1,59 @@
+.ocdi-install-plugins-content-content {
+	label[for="ocdi-wpforms-lite-plugin"],
+	label[for="ocdi-all-in-one-seo-pack-plugin"],
+	label[for="ocdi-google-analytics-for-wordpress-plugin"],
+	.ocdi-content-notice.ocdi-content-notice--warning{
+		display: none !important;
+	}
+
+	.ocdi-install-plugins-content-header {
+ 		display: none !important;
+	}
+}
+
+.ocdi-install-plugins-content{
+	.ocdi-install-plugins-content-header > p{
+ 		display: none !important;
+	}
+}
+.ocdi__theme-about-screenshots {
+	max-width: 400px;
+}
+
+.ocdi__gl-navigation {
+	ul {
+		li{
+			margin: 10px 3px;
+			a {
+				border-radius: 5px;
+				background: #777;
+				color: #fff;
+				padding: 5px 10px 8px;
+    			border: none !important;
+    			line-height: 1.2em;
+    			transition: background 0.2s;
+    			span {
+    				border: none !important;
+    				text-trasform: uppercase;
+    				padding: 0;
+    			}
+    			&:hover {
+    				cursor: pointer;
+    				background: #e80e20;
+    				span {
+    					color: #fff;
+    				}
+    			}
+			}
+			&.active {
+				a {
+					background: #e80e20;
+					span {
+						border: none !important;
+						padding-bottom: 0 !important;
+					}
+				}
+			}
+		}
+	}
+}

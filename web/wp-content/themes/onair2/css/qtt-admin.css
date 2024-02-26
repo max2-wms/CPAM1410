@@ -1,0 +1,6 @@
+.rs-update-notice-wrap,
+[data-slug="slider-revolution"] + .plugin-update-tr,
+[data-slug="slider-revolution"] + .plugin-update-tr + .plugin-update-tr,
+[data-plugin="revslider/revslider.php"] .plugin-update, [data-plugin="revslider/revslider.php"] + .plugin-update-tr,
+[data-plugin="js_composer/js_composer.php"] .plugin-update {
+  display: none; }
