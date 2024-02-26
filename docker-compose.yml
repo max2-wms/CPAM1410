@@ -24,6 +24,7 @@ services:
     image: mysql:5.7
     volumes:
       - cpam_data:/var/lib/mysql
+      # - ./data/local:/docker-entrypoint-initdb.d
     environment:
       MYSQL_ROOT_PASSWORD: password01
     networks:
